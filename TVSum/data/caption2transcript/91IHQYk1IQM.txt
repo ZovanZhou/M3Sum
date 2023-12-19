@@ -1,0 +1,35 @@
+Range 1: 0:00-0:30
+Frame 1: "The Chinese New Year Parade in New York City's Chinatown is a vibrant and colorful celebration of the Lunar New Year."
+Frame 2: "The parade features lion dancers, dragon dancers, marching bands, and floats adorned with traditional Chinese decorations."
+Frame 3: "Crowds of people line the streets to watch the parade and participate in the festivities."
+
+Range 2: 0:31-1:00
+Frame 4: "The parade is a way for the Chinese-American community to share their culture and traditions with the rest of New York City."
+Frame 5: "Many of the participants in the parade are local businesses and organizations, who use the event as an opportunity to showcase their products and services."
+Frame 6: "The parade also attracts tourists from all over the world, who come to experience the unique sights and sounds of Chinatown during the Lunar New Year."
+
+Range 3: 1:01-1:30
+Frame 7: "One of the highlights of the parade is the lion dance, which is performed by a team of dancers wearing a lion costume."
+Frame 8: "The lion dance is believed to bring good luck and fortune, and is often performed at important events such as weddings and business openings."
+Frame 9: "Another popular attraction is the dragon dance, which involves a team of dancers carrying a long, colorful dragon puppet through the streets."
+
+Range 4: 1:31-2:00
+Frame 10: "The parade also includes marching bands, featuring musicians playing traditional Chinese instruments such as drums and cymbals."
+Frame 11: "Many of the floats in the parade are decorated with red lanterns, which are a symbol of good luck and prosperity in Chinese culture."
+Frame 12: "The parade culminates with a spectacular fireworks display, lighting up the night sky over Chinatown."
+
+JSON Output:
+{
+  "Frame 1": 3,
+  "Frame 2": 4,
+  "Frame 3": 2,
+  "Frame 4": 4,
+  "Frame 5": 2,
+  "Frame 6": 3,
+  "Frame 7": 5,
+  "Frame 8": 4,
+  "Frame 9": 5,
+  "Frame 10": 3,
+  "Frame 11": 2,
+  "Frame 12": 5
+}

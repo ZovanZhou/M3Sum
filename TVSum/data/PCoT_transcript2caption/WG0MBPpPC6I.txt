@@ -1,0 +1,274 @@
+customer. 
+Frame21: a woman standing in a kitchen with a bowl of breadcrumbs. Chef Diane recommends using flavored breadcrumbs for this dish.
+Frame22: a close-up of the chicken being breaded with the flavored breadcrumbs.
+Frame23: a woman placing the breaded chicken into a frying pan.
+Frame24: a woman flipping the chicken in the frying pan.
+Frame25: a woman assembling the sandwich with lettuce, tomato, cheese, chipotle sauce, and pickled jalapenos.
+Frame26: a close-up of the finished sandwich on a plate.
+Frame27: a woman taking a bite of the sandwich and smiling.
+
+{
+"Frame1": 2,
+"Frame2": 2,
+"Frame3": 1,
+"Frame4": 1,
+"Frame5": 2,
+"Frame6": 2,
+"Frame7": 2,
+"Frame8": 1,
+"Frame9": 1,
+"Frame10": 2,
+"Frame11": 1,
+"Frame12": 1,
+"Frame13": 3,
+"Frame14": 2,
+"Frame15": 3,
+"Frame16": 2,
+"Frame17": 3,
+"Frame18": 4,
+"Frame19": 2,
+"Frame20": 1,
+"Frame21": 4,
+"Frame22": 3,
+"Frame23": 3,
+"Frame24": 3,
+"Frame25": 5,
+"Frame26": 4,
+"Frame27": 5
+}
+{
+    "Frame21": 2,
+    "Frame22": 2,
+    "Frame23": 1,
+    "Frame24": 1,
+    "Frame25": 1,
+    "Frame26": 1,
+    "Frame27": 3,
+    "Frame28": 2,
+    "Frame29": 2,
+    "Frame30": 2,
+    "Frame31": 3,
+    "Frame32": 1,
+    "Frame33": 1,
+    "Frame34": 4,
+    "Frame35": 2,
+    "Frame36": 2,
+    "Frame37": 3,
+    "Frame38": 2,
+    "Frame39": 2,
+    "Frame40": 1
+}
+{
+    "Frame41": 1,
+    "Frame42": 1,
+    "Frame43": 2,
+    "Frame44": 2,
+    "Frame45": 3,
+    "Frame46": 3,
+    "Frame47": 2,
+    "Frame48": 2,
+    "Frame49": 1,
+    "Frame50": 2,
+    "Frame51": 2,
+    "Frame52": 2,
+    "Frame53": 4,
+    "Frame54": 4,
+    "Frame55": 1,
+    "Frame56": 3,
+    "Frame57": 4,
+    "Frame58": 4,
+    "Frame59": 1,
+    "Frame60": 4
+}
+{
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 1,
+  "Frame64": 1,
+  "Frame65": 1,
+  "Frame66": 2,
+  "Frame67": 2,
+  "Frame68": 2,
+  "Frame69": 1,
+  "Frame70": 1,
+  "Frame71": 3,
+  "Frame72": 1,
+  "Frame73": 2,
+  "Frame74": 2,
+  "Frame75": 4,
+  "Frame76": 4,
+  "Frame77": 3,
+  "Frame78": 5,
+  "Frame79": 5,
+  "Frame80": 5
+}
+Scored Frames:
+{
+  "Frame81": 2,
+  "Frame82": 2,
+  "Frame83": 3,
+  "Frame84": 3,
+  "Frame85": 3,
+  "Frame86": 3,
+  "Frame87": 3,
+  "Frame88": 1,
+  "Frame89": 1,
+  "Frame90": 2,
+  "Frame91": 2,
+  "Frame92": 2,
+  "Frame93": 2,
+  "Frame94": 2,
+  "Frame95": 4,
+  "Frame96": 4,
+  "Frame97": 4,
+  "Frame98": 3,
+  "Frame99": 3,
+  "Frame100": 1
+}
+Frame101-104: Score 2 - These frames show the woman in the kitchen with a knife and preparing food. They are important for setting the scene and introducing the main dish, but do not provide significant information.
+
+Frame105-107: Score 1 - These frames mention that the recipe can be made with different meats, but do not provide any new information about the dish.
+
+Frame108-114: Score 3 - These frames show the woman finishing up the chicken and preparing the other ingredients for the sandwich. They provide important details about the dish and its preparation.
+
+Frame115-118: Score 4 - These frames show the finished sandwich and emphasize the freshness of the ingredients. They are important for showcasing the final product.
+
+Frame119-120: Score 1 - These frames mention the possibility of searing additional meat, but do not provide any new information about the dish.
+
+Output in JSON format:
+{
+"Frame101": 2,
+"Frame102": 2,
+"Frame103": 2,
+"Frame104": 2,
+"Frame105": 1,
+"Frame106": 1,
+"Frame107": 1,
+"Frame108": 3,
+"Frame109": 3,
+"Frame110": 3,
+"Frame111": 3,
+"Frame112": 3,
+"Frame113": 3,
+"Frame114": 3,
+"Frame115": 4,
+"Frame116": 4,
+"Frame117": 4,
+"Frame118": 4,
+"Frame119": 1,
+"Frame120": 1
+}
+Frame121: 2
+Frame122: 2
+Frame123: 3
+Frame124: 1
+Frame125: 3
+Frame126: 1
+Frame127: 2
+Frame128: 2
+Frame129: 2
+Frame130: 1
+Frame131: 3
+Frame132: 3
+Frame133: 1
+Frame134: 2
+Frame135: 4
+Frame136: 4
+Frame137: 3
+Frame138: 3
+Frame139: 2
+Frame140: 2
+
+{
+"Frame121": 2,
+"Frame122": 2,
+"Frame123": 3,
+"Frame124": 1,
+"Frame125": 3,
+"Frame126": 1,
+"Frame127": 2,
+"Frame128": 2,
+"Frame129": 2,
+"Frame130": 1,
+"Frame131": 3,
+"Frame132": 3,
+"Frame133": 1,
+"Frame134": 2,
+"Frame135": 4,
+"Frame136": 4,
+"Frame137": 3,
+"Frame138": 3,
+"Frame139": 2,
+"Frame140": 2
+}
+{
+    "Frame141": 2,
+    "Frame142": 2,
+    "Frame143": 2,
+    "Frame144": 3,
+    "Frame145": 3,
+    "Frame146": 3,
+    "Frame147": 1,
+    "Frame148": 1,
+    "Frame149": 2,
+    "Frame150": 2,
+    "Frame151": 2,
+    "Frame152": 2,
+    "Frame153": 4,
+    "Frame154": 4,
+    "Frame155": 3,
+    "Frame156": 3,
+    "Frame157": 1,
+    "Frame158": 1,
+    "Frame159": 2,
+    "Frame160": 2
+}
+Here are the scores for each frame:
+
+{
+"Frame161": 1,
+"Frame162": 1,
+"Frame163": 1,
+"Frame164": 2,
+"Frame165": 2,
+"Frame166": 2,
+"Frame167": 3,
+"Frame168": 3,
+"Frame169": 3,
+"Frame170": 3,
+"Frame171": 3,
+"Frame172": 3,
+"Frame173": 4,
+"Frame174": 4,
+"Frame175": 4,
+"Frame176": 5,
+"Frame177": 5,
+"Frame178": 5,
+"Frame179": 5,
+"Frame180": 1
+}
+{
+    "Frame181": 2,
+    "Frame182": 1,
+    "Frame183": 3,
+    "Frame184": 1,
+    "Frame185": 1,
+    "Frame186": 1,
+    "Frame187": 2,
+    "Frame188": 1,
+    "Frame189": 3,
+    "Frame190": 2,
+    "Frame191": 1,
+    "Frame192": 1,
+    "Frame193": 1,
+    "Frame194": 4,
+    "Frame195": 4,
+    "Frame196": 4,
+    "Frame197": 5,
+    "Frame198": 2,
+    "Frame199": 1,
+    "Frame200": 1
+}
+Frame201: 2
+Frame202: 2
+Frame203: 2

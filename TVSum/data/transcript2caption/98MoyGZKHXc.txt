@@ -1,0 +1,76 @@
+the floor.
+Frame31: a close up view of a tyre repair kit. Open the kit and read the instructions carefully before you start.
+Frame32: a person holding a can of sealant. Attach the sealant can to the hose and screw it on tightly.
+Frame33: a person attaching the hose to the tyre valve. Remove any debris from the puncture and attach the hose to the tyre valve.
+Frame34: a person pressing the button on the sealant can. Press the button on the sealant can to release the sealant into the tyre.
+Frame35: a person inflating the tyre with a compressor. Use the compressor to inflate the tyre to the recommended pressure.
+Frame36: a person checking the tyre pressure with a gauge. Check the tyre pressure with a gauge and adjust if necessary.
+Frame37: a person driving a car on the road. Drive slowly and carefully to a garage to have the tyre checked and repaired properly.
+the sealant spread evenly.
+Frame61: a person holding a remote control in their hand. Once the tyre is fully inflated, disconnect the compressor and drive the car for a few miles to allow the sealant to fully spread and repair the puncture.
+Frame62: a man standing next to a parked car. Once the tyre is fully inflated, disconnect the compressor and drive the car for a few miles to allow the sealant to fully spread and repair the puncture.
+Frame63: a person holding a cell phone in their hand. Once the tyre is fully inflated, disconnect the compressor and drive the car for a few miles to allow the sealant to fully spread and repair the puncture.
+Frame64: a close up view of a car's wheel. And that's it! Your tyre should now be repaired and ready to go.
+{
+  "Frame61": 2,
+  "Frame62": 3,
+  "Frame63": 1,
+  "Frame64": 1,
+  "Frame65": 1,
+  "Frame66": 1,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 1,
+  "Frame70": 4,
+  "Frame71": 2,
+  "Frame72": 2,
+  "Frame73": 2,
+  "Frame74": 3,
+  "Frame75": 4,
+  "Frame76": 4,
+  "Frame77": 3,
+  "Frame78": 3,
+  "Frame79": 3,
+  "Frame80": 3,
+  "Frame81": 5,
+  "Frame82": 5,
+  "Frame83": 5,
+  "Frame84": 4,
+  "Frame85": 2,
+  "Frame86": 2,
+  "Frame87": 1,
+  "Frame88": 1,
+  "Frame89": 1,
+  "Frame90": 1
+}
+Frame91: 1
+Frame92: 2
+Frame93: 3
+Frame94: 4
+Frame95: A man opening the tyre repair kit and taking out the tools. 
+Frame96: The man using pliers to remove the nail from the tyre.
+Frame97: The man inserting the rasp tool into the puncture hole.
+Frame98: The man screwing in the repair strip with the insertion tool.
+Frame99: The man trimming the excess repair strip with scissors.
+Frame100: The man inflating the tyre with a pump. 
+
+Frame95: 2
+Frame96: 4
+Frame97: 5
+Frame98: 5
+Frame99: 3
+Frame100: 4
+
+Output:
+{
+"Frame91": 1,
+"Frame92": 2,
+"Frame93": 3,
+"Frame94": 4,
+"Frame95": 2,
+"Frame96": 4,
+"Frame97": 5,
+"Frame98": 5,
+"Frame99": 3,
+"Frame100": 4
+}

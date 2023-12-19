@@ -1,0 +1,143 @@
+Frame21: a person eating a hot dog. 
+Frame22: a person eating a hot dog. 
+Frame23: a person eating a hot dog. 
+Frame24: a person eating a hot dog. 
+Frame25: a bird sitting on a railing. 
+Frame26: a bird sitting on a railing. 
+Frame27: a bird sitting on a railing. 
+Frame28: a bird sitting on a railing. 
+Frame29: a person holding a Vietnamese bean pudding. 
+Frame30: a person holding a doughnut. 
+Frame31: a person holding a cup filled with ice cream. 
+Frame32: a person holding a food item wrapped in banana leaf with stuffed pork and steamed. 
+Frame33: a special sandwich cut in half on a paper towel. 
+Frame34: a person trying different foods. 
+Frame35: a person trying different foods. 
+Frame36: a person trying different foods. 
+Frame37: a black and white photo of a street sign. 
+Frame38: a black and white photo of people standing in front of lights. 
+
+{
+"Frame1": 2,
+"Frame2": 2,
+"Frame3": 1,
+"Frame4": 1,
+"Frame5": 1,
+"Frame6": 1,
+"Frame7": 1,
+"Frame8": 1,
+"Frame9": 1,
+"Frame10": 2,
+"Frame11": 2,
+"Frame12": 4,
+"Frame13": 4,
+"Frame14": 3,
+"Frame15": 3,
+"Frame16": 3,
+"Frame17": 2,
+"Frame18": 2,
+"Frame19": 2,
+"Frame20": 3,
+"Frame21": 1,
+"Frame22": 1,
+"Frame23": 1,
+"Frame24": 1,
+"Frame25": 1,
+"Frame26": 1,
+"Frame27": 1,
+"Frame28": 1,
+"Frame29": 2,
+"Frame30": 2,
+"Frame31": 2,
+"Frame32": 3,
+"Frame33": 4,
+"Frame34": 2,
+"Frame35": 2,
+"Frame36": 2,
+"Frame37": 1,
+"Frame38": 1
+}
+{
+  "Frame21": 2,
+  "Frame22": 1,
+  "Frame23": 1,
+  "Frame24": 2,
+  "Frame25": 2,
+  "Frame26": 2,
+  "Frame27": 2,
+  "Frame28": 2,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 2,
+  "Frame32": 2,
+  "Frame33": 3,
+  "Frame34": 4,
+  "Frame35": 2,
+  "Frame36": 2,
+  "Frame37": 2,
+  "Frame38": 2,
+  "Frame39": 2,
+  "Frame40": 4
+}
+{
+  "Frame41": 3,
+  "Frame42": 3,
+  "Frame43": 2,
+  "Frame44": 2,
+  "Frame45": 2,
+  "Frame46": 1,
+  "Frame47": 1,
+  "Frame48": 1,
+  "Frame49": 1,
+  "Frame50": 1,
+  "Frame51": 1,
+  "Frame52": 1,
+  "Frame53": 1,
+  "Frame54": 2,
+  "Frame55": 2,
+  "Frame56": 4,
+  "Frame57": 3,
+  "Frame58": 4,
+  "Frame59": 3,
+  "Frame60": 2
+}
+{
+  "Frame61": 2,
+  "Frame62": 4,
+  "Frame63": 2,
+  "Frame64": 1,
+  "Frame65": 4,
+  "Frame66": 3,
+  "Frame67": 2,
+  "Frame68": 3,
+  "Frame69": 4,
+  "Frame70": 2,
+  "Frame71": 1,
+  "Frame72": 1,
+  "Frame73": 2,
+  "Frame74": 3,
+  "Frame75": 3,
+  "Frame76": 2,
+  "Frame77": 5,
+  "Frame78": 4,
+  "Frame79": 4,
+  "Frame80": 3
+}
+Frame81: 2
+Frame82: 2
+Frame83: 2
+Frame84: 2
+Frame85: 2
+Frame86: 1
+Frame87: 1
+Frame88: 1
+Frame89: 1
+Frame90: 1
+Frame91: 1
+Frame92: 1
+Frame93: 1
+Frame94: 3
+Frame95: 3
+Frame96: 3
+Frame97: 3
+Frame98: 3

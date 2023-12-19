@@ -1,0 +1,13 @@
+{
+  "Frame15": 2,
+  "Frame16": 2,
+  "Frame17": 2,
+  "Frame18": 2,
+  "Frame19": 2,
+  "Frame20": 2,
+  "Frame21": 1,
+  "Frame22": 1,
+  "Frame23": 1,
+  "Frame24": 1,
+  "Frame25": 1
+}

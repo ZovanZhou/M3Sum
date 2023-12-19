@@ -1,0 +1,23 @@
+{
+  "Frame0-4": 2,
+  "Frame4-6": 1,
+  "Frame6-7": 1,
+  "Frame7-10": 3,
+  "Frame10-12": 2,
+  "Frame12-16": 4,
+  "Frame25-27": 1,
+  "Frame27-29": 3,
+  "Frame29-41": 4,
+  "Frame44-47": 3,
+  "Frame47-61": 2,
+  "Frame62-68": 1,
+  "Frame77-79": 2,
+  "Frame79-82": 4,
+  "Frame82-84": 2,
+  "Frame84-85": 3,
+  "Frame85-92": 5,
+  "Frame92-93": 4,
+  "Frame93-93": 3,
+  "Frame93-94": 2,
+  "Frame94-101": 2
+}

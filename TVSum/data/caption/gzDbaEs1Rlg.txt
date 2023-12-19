@@ -1,0 +1,196 @@
+{
+  "Frame1": 2,
+  "Frame2": 1,
+  "Frame3": 2,
+  "Frame4": 3,
+  "Frame5": 3,
+  "Frame6": 3,
+  "Frame7": 3,
+  "Frame8": 3,
+  "Frame9": 3,
+  "Frame10": 3,
+  "Frame11": 3,
+  "Frame12": 2,
+  "Frame13": 3,
+  "Frame14": 3,
+  "Frame15": 4,
+  "Frame16": 4,
+  "Frame17": 4,
+  "Frame18": 1,
+  "Frame19": 1,
+  "Frame20": 4,
+  "Frame21": 2,
+  "Frame22": 1,
+  "Frame23": 1,
+  "Frame24": 4,
+  "Frame25": 4,
+  "Frame26": 2,
+  "Frame27": 2,
+  "Frame28": 1,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 2,
+  "Frame32": 2,
+  "Frame33": 1,
+  "Frame34": 1,
+  "Frame35": 1,
+  "Frame36": 1,
+  "Frame37": 1,
+  "Frame38": 1,
+  "Frame39": 3,
+  "Frame40": 2,
+  "Frame41": 1,
+  "Frame42": 1,
+  "Frame43": 3,
+  "Frame44": 1,
+  "Frame45": 3,
+  "Frame46": 2,
+  "Frame47": 2,
+  "Frame48": 2,
+  "Frame49": 2,
+  "Frame50": 1,
+  "Frame51": 1,
+  "Frame52": 2,
+  "Frame53": 1,
+  "Frame54": 2,
+  "Frame55": 1,
+  "Frame56": 2,
+  "Frame57": 2,
+  "Frame58": 2,
+  "Frame59": 1,
+  "Frame60": 1,
+  "Frame61": 1,
+  "Frame62": 2,
+  "Frame63": 2,
+  "Frame64": 2,
+  "Frame65": 2,
+  "Frame66": 2,
+  "Frame67": 2,
+  "Frame68": 2,
+  "Frame69": 2,
+  "Frame70": 1,
+  "Frame71": 1,
+  "Frame72": 2,
+  "Frame73": 3,
+  "Frame74": 1,
+  "Frame75": 3,
+  "Frame76": 1,
+  "Frame77": 1,
+  "Frame78": 1,
+  "Frame79": 1,
+  "Frame80": 1,
+  "Frame81": 1,
+  "Frame82": 1,
+  "Frame83": 1,
+  "Frame84": 1,
+  "Frame85": 1,
+  "Frame86": 1,
+  "Frame87": 1,
+  "Frame88": 1,
+  "Frame89": 1,
+  "Frame90": 2,
+  "Frame91": 2,
+  "Frame92": 3,
+  "Frame93": 3,
+  "Frame94": 4,
+  "Frame95": 1,
+  "Frame96": 2,
+  "Frame97": 2,
+  "Frame98": 2,
+  "Frame99": 2,
+  "Frame100": 2
+}
+Frame101: 2
+Frame102: 3
+Frame103: 1
+Frame104: 2
+Frame105: 1
+Frame106: 3
+Frame107: 2
+Frame108: 2
+Frame109: 2
+Frame110: 4
+Frame111: 4
+Frame112: 1
+Frame113: 1
+Frame114: 1
+Frame115: 1
+Frame116: 3
+Frame117: 4
+Frame118: 2
+Frame119: 1
+Frame120: 1
+Frame121: 1
+Frame122: 1
+Frame123: 1
+Frame124: 2
+Frame125: 2
+Frame126: 2
+Frame127: 3
+Frame128: 3
+Frame129: 2
+Frame130: 4
+Frame131: 4
+Frame132: 4
+Frame133: 3
+Frame134: 4
+Frame135: 4
+Frame136: 4
+Frame137: 2
+Frame138: 3
+Frame139: 2
+Frame140: 1
+Frame141: 1
+Frame142: 2
+Frame143: 2
+Frame144: 1
+Frame145: 2
+
+JSON Output:
+{
+"Frame101": 2,
+"Frame102": 3,
+"Frame103": 1,
+"Frame104": 2,
+"Frame105": 1,
+"Frame106": 3,
+"Frame107": 2,
+"Frame108": 2,
+"Frame109": 2,
+"Frame110": 4,
+"Frame111": 4,
+"Frame112": 1,
+"Frame113": 1,
+"Frame114": 1,
+"Frame115": 1,
+"Frame116": 3,
+"Frame117": 4,
+"Frame118": 2,
+"Frame119": 1,
+"Frame120": 1,
+"Frame121": 1,
+"Frame122": 1,
+"Frame123": 1,
+"Frame124": 2,
+"Frame125": 2,
+"Frame126": 2,
+"Frame127": 3,
+"Frame128": 3,
+"Frame129": 2,
+"Frame130": 4,
+"Frame131": 4,
+"Frame132": 4,
+"Frame133": 3,
+"Frame134": 4,
+"Frame135": 4,
+"Frame136": 4,
+"Frame137": 2,
+"Frame138": 3,
+"Frame139": 2,
+"Frame140": 1,
+"Frame141": 1,
+"Frame142": 2,
+"Frame143": 2,
+"Frame144": 1,
+"Frame145": 2
+}

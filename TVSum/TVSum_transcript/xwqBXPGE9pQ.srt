@@ -1,0 +1,133 @@
+1
+00:00:00,000 --> 00:00:08,000
+We're taking smartphone, spaceship technology on a motorcycle platform with the safety of a car.
+
+2
+00:00:08,000 --> 00:00:20,000
+Basically it's a robot motorcycle. It self-balances and really increases your safety and your range and the excitement of riding a motorcycle.
+
+3
+00:00:20,000 --> 00:00:27,000
+200 miles per charge, it's a two-wheel drive, wheel hub motor, electric vehicle.
+
+4
+00:00:27,000 --> 00:00:42,000
+You steer it like a car, you sit in it like a car, you have pedals like a car, but the robot side, it takes your steering input and leans you into turns a lot like a jet fighter.
+
+5
+00:00:42,000 --> 00:00:47,000
+So as you can see, full electronics in here.
+
+6
+00:00:47,000 --> 00:00:53,000
+And this is actually our real gyro right here, if you want to take a look at this.
+
+7
+00:00:53,000 --> 00:00:59,000
+The gyroscope's inside basically output around 1,300 foot-pounds of torque.
+
+8
+00:00:59,000 --> 00:01:03,000
+So you basically need a baby elephant to knock it over.
+
+9
+00:01:03,000 --> 00:01:07,000
+It's a lot like a CMG or a control moment gyro.
+
+10
+00:01:07,000 --> 00:01:14,000
+The International Space Station and most satellites use the same orientation technology.
+
+11
+00:01:14,000 --> 00:01:18,000
+We've just kind of taken that and made it commercially available.
+
+12
+00:01:18,000 --> 00:01:27,000
+There are servos and there are gyro motors, there are traction motors, but sensors like an IMU, IR sensors.
+
+13
+00:01:27,000 --> 00:01:36,000
+There's actually a lot of temperature and heat sensors, a myriad of sensors that actually all feed data that has to be processed.
+
+14
+00:01:36,000 --> 00:01:51,000
+And through that process, a command to the gyros to tilt and lean the vehicle to keep it balanced or either to lean into a turn, it's very dependently based on our processing system.
+
+15
+00:01:51,000 --> 00:01:54,000
+The prototype that we have now uses two i7s.
+
+16
+00:01:54,000 --> 00:01:59,000
+At our end product, we should be using something that would power a smartphone today.
+
+17
+00:01:59,000 --> 00:02:04,000
+One of the hurdles in our development is having the vehicle actually be more aware of its surroundings.
+
+18
+00:02:04,000 --> 00:02:16,000
+So it's kind of like putting AI but also having good sensory perception of the road, of any kind of external influences or disturbances,
+
+19
+00:02:16,000 --> 00:02:23,000
+and having that all get computed and processed to allow for stability in all scenarios.
+
+20
+00:02:23,000 --> 00:02:30,000
+On the heads-up display, you can see battery life, range, how much left you have in your procession budget.
+
+21
+00:02:30,000 --> 00:02:34,000
+It's kind of like your artificial horizon.
+
+22
+00:02:34,000 --> 00:02:41,000
+And also, it's basically a rolling smartphone, so all of the information on your smartphone will be on a side panel.
+
+23
+00:02:41,000 --> 00:02:46,000
+Upgrading the hardware, the gyro can be done pretty easily.
+
+24
+00:02:46,000 --> 00:02:50,000
+The gyros actually come and the battery pack come in its own modular unit.
+
+25
+00:02:50,000 --> 00:02:56,000
+So you can upgrade the gyro output, you can upgrade the battery size, or both.
+
+26
+00:02:56,000 --> 00:03:04,000
+So if you want a faster, more robust, more stabilized C1, it's pretty easy to upgrade that.
+
+27
+00:03:04,000 --> 00:03:11,000
+The chassis is made out of steel. We could be using some kind of composite body for the interior as well.
+
+28
+00:03:11,000 --> 00:03:15,000
+Parts count, we're one-tenth of a part of a car.
+
+29
+00:03:15,000 --> 00:03:18,000
+Cars typically have around 24,000 parts.
+
+30
+00:03:18,000 --> 00:03:25,000
+If you drive an Audi, it's 40,000. We only have 2,239.
+
+31
+00:03:25,000 --> 00:03:30,000
+So it's pretty easy to manufacture, that's why we can make it affordable.
+
+32
+00:03:30,000 --> 00:03:36,000
+In our audience, urban professionals, tech junkies, they have to have the first thing.
+
+33
+00:03:36,000 --> 00:03:55,000
+They commute, they have a professional life, they still want to have fun, but at an affordable price.
+
+

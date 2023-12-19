@@ -1,0 +1,144 @@
+{
+  "Frame1": 2,
+  "Frame2": 3,
+  "Frame3": 2,
+  "Frame4": 2,
+  "Frame5": 2,
+  "Frame6": 2,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 2,
+  "Frame10": 3,
+  "Frame11": 4,
+  "Frame12": 3,
+  "Frame13": 4,
+  "Frame14": 2,
+  "Frame15": 2,
+  "Frame16": 3,
+  "Frame17": 2,
+  "Frame18": 3,
+  "Frame19": 3,
+  "Frame20": 1,
+  "Frame21": 2,
+  "Frame22": 3,
+  "Frame23": 4,
+  "Frame24": 4,
+  "Frame25": 4,
+  "Frame26": 2,
+  "Frame27": 2,
+  "Frame28": 2,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 2,
+  "Frame32": 3,
+  "Frame33": 3,
+  "Frame34": 2,
+  "Frame35": 2,
+  "Frame36": 1,
+  "Frame37": 2,
+  "Frame38": 2,
+  "Frame39": 2,
+  "Frame40": 2,
+  "Frame41": 4,
+  "Frame42": 2,
+  "Frame43": 3,
+  "Frame44": 4,
+  "Frame45": 3,
+  "Frame46": 2,
+  "Frame47": 3,
+  "Frame48": 2,
+  "Frame49": 2,
+  "Frame50": 2,
+  "Frame51": 3,
+  "Frame52": 4,
+  "Frame53": 4,
+  "Frame54": 3,
+  "Frame55": 4,
+  "Frame56": 3,
+  "Frame57": 3,
+  "Frame58": 2,
+  "Frame59": 4,
+  "Frame60": 2,
+  "Frame61": 3,
+  "Frame62": 2,
+  "Frame63": 2,
+  "Frame64": 2,
+  "Frame65": 2,
+  "Frame66": 3,
+  "Frame67": 2,
+  "Frame68": 2,
+  "Frame69": 3,
+  "Frame70": 3,
+  "Frame71": 4,
+  "Frame72": 3,
+  "Frame73": 4,
+  "Frame74": 4,
+  "Frame75": 3,
+  "Frame76": 2,
+  "Frame77": 2,
+  "Frame78": 2,
+  "Frame79": 2,
+  "Frame80": 2,
+  "Frame81": 2,
+  "Frame82": 3,
+  "Frame83": 3,
+  "Frame84": 4,
+  "Frame85": 3,
+  "Frame86": 4,
+  "Frame87": 3,
+  "Frame88": 3,
+  "Frame89": 2,
+  "Frame90": 3,
+  "Frame91": 4,
+  "Frame92": 3,
+  "Frame93": 3,
+  "Frame94": 2,
+  "Frame95": 2,
+  "Frame96": 3,
+  "Frame97": 4,
+  "Frame98": 2,
+  "Frame99": 2,
+  "Frame100": 2
+}
+Score: 1
+
+Frame102: a group of people standing around and watching a motorcycle stunt show
+Score: 4
+
+Frame103: a close-up shot of a man in a helmet performing a motorcycle trick
+Score: 5
+
+Frame104: a street scene with buildings and signs in the background
+Score: 2
+
+Frame105: a man in a suit holding a baseball bat
+Score: 3
+
+Frame106: a crowd of people cheering at an event
+Score: 4
+
+Frame107: a person playing a video game
+Score: 2
+
+Frame108: a group of people riding motorcycles
+Score: 4
+
+Frame109: a sign advertising the Smage Bros. Motorcycle Stunt Show
+Score: 3
+
+Frame110: a man in a hat riding a motorcycle
+Score: 3
+
+JSON Output:
+{
+"Frame101": 1,
+"Frame102": 4,
+"Frame103": 5,
+"Frame104": 2,
+"Frame105": 3,
+"Frame106": 4,
+"Frame107": 2,
+"Frame108": 4,
+"Frame109": 3,
+"Frame110": 3
+}

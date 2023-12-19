@@ -1,0 +1,170 @@
+and moisture in. Score: 4
+Frame21: a close-up of a fried chicken sandwich being prepared. Score: 3
+Frame22: Chef James McDuffie discussing the unique qualities of Joseph Leonard's fried chicken sandwich. Score: 5
+Frame23: people preparing food in a kitchen. Score: 2
+Frame24: a person adding acid to a dish. Score: 2
+Frame25: a sign for Joseph Leonard restaurant. Score: 3
+Frame26: various dishes being prepared in a kitchen. Score: 2
+Frame27: a blue and white sign on a blue background. Score: 3
+Frame28: people eating food at a table. Score: 2
+Frame29: a person taking a bite of a sandwich. Score: 2
+Frame30: a person holding a sandwich up to their mouth. Score: 2
+
+Output in JSON format:
+{
+"Frame1": 1,
+"Frame2": 1,
+"Frame3": 1,
+"Frame4": 1,
+"Frame5": 1,
+"Frame6": 1,
+"Frame7": 1,
+"Frame8": 1,
+"Frame9": 1,
+"Frame10": 2,
+"Frame11": 2,
+"Frame12": 2,
+"Frame13": 2,
+"Frame14": 2,
+"Frame15": 2,
+"Frame16": 2,
+"Frame17": 2,
+"Frame18": 2,
+"Frame19": 2,
+"Frame20": 4,
+"Frame21": 3,
+"Frame22": 5,
+"Frame23": 2,
+"Frame24": 2,
+"Frame25": 3,
+"Frame26": 2,
+"Frame27": 3,
+"Frame28": 2,
+"Frame29": 2,
+"Frame30": 2
+}
+{
+  "Frame21": 2,
+  "Frame22": 2,
+  "Frame23": 1,
+  "Frame24": 1,
+  "Frame25": 1,
+  "Frame26": 2,
+  "Frame27": 4,
+  "Frame28": 4,
+  "Frame29": 3,
+  "Frame30": 2,
+  "Frame31": 3,
+  "Frame32": 3,
+  "Frame33": 3,
+  "Frame34": 2,
+  "Frame35": 1,
+  "Frame36": 1,
+  "Frame37": 2,
+  "Frame38": 4,
+  "Frame39": 5,
+  "Frame40": 5
+}
+{
+  "Frame41": 2,
+  "Frame42": 2,
+  "Frame43": 2,
+  "Frame44": 2,
+  "Frame45": 3,
+  "Frame46": 2,
+  "Frame47": 2,
+  "Frame48": 2,
+  "Frame49": 2,
+  "Frame50": 2,
+  "Frame51": 4,
+  "Frame52": 1,
+  "Frame53": 3,
+  "Frame54": 1,
+  "Frame55": 2,
+  "Frame56": 1,
+  "Frame57": 2,
+  "Frame58": 1,
+  "Frame59": 3,
+  "Frame60": 4
+}
+{
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 2,
+  "Frame64": 2,
+  "Frame65": 3,
+  "Frame66": 3,
+  "Frame67": 2,
+  "Frame68": 4,
+  "Frame69": 4,
+  "Frame70": 4,
+  "Frame71": 3,
+  "Frame72": 3,
+  "Frame73": 3,
+  "Frame74": 2,
+  "Frame75": 5,
+  "Frame76": 5,
+  "Frame77": 5,
+  "Frame78": 3,
+  "Frame79": 4,
+  "Frame80": 4
+}
+{
+  "Frame81": 2,
+  "Frame82": 2,
+  "Frame83": 3,
+  "Frame84": 3,
+  "Frame85": 4,
+  "Frame86": 3,
+  "Frame87": 3,
+  "Frame88": 1,
+  "Frame89": 1,
+  "Frame90": 2,
+  "Frame91": 2,
+  "Frame92": 2,
+  "Frame93": 1,
+  "Frame94": 2,
+  "Frame95": 2,
+  "Frame96": 2,
+  "Frame97": 3,
+  "Frame98": 4,
+  "Frame99": 4,
+  "Frame100": 1
+}
+{
+  "Frame101": 3,
+  "Frame102": 3,
+  "Frame103": 2,
+  "Frame104": 2,
+  "Frame105": 2,
+  "Frame106": 2,
+  "Frame107": 2,
+  "Frame108": 1,
+  "Frame109": 3,
+  "Frame110": 1,
+  "Frame111": 4,
+  "Frame112": 4,
+  "Frame113": 3,
+  "Frame114": 2,
+  "Frame115": 1,
+  "Frame116": 2,
+  "Frame117": 2,
+  "Frame118": 2,
+  "Frame119": 2,
+  "Frame120": 2
+}
+{
+  "Frame121": 2,
+  "Frame122": 2,
+  "Frame123": 2,
+  "Frame124": 2,
+  "Frame125": 1,
+  "Frame126": 1,
+  "Frame127": 1,
+  "Frame128": 4,
+  "Frame129": 4,
+  "Frame130": 3,
+  "Frame131": 3,
+  "Frame132": 3,
+  "Frame133": 3
+}

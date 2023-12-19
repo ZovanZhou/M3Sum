@@ -1,0 +1,109 @@
+{
+  "Frame1": 2,
+  "Frame2": 2,
+  "Frame3": 2,
+  "Frame4": 1,
+  "Frame5": 4,
+  "Frame6": 3,
+  "Frame7": 3,
+  "Frame8": 3,
+  "Frame9": 3,
+  "Frame10": 3,
+  "Frame11": 4,
+  "Frame12": 1,
+  "Frame13": 2,
+  "Frame14": 2,
+  "Frame15": 4,
+  "Frame16": 3,
+  "Frame17": 4,
+  "Frame18": 3,
+  "Frame19": 3,
+  "Frame20": 2
+}
+{
+  "Frame21": 2,
+  "Frame22": 2,
+  "Frame23": 1,
+  "Frame24": 1,
+  "Frame25": 4,
+  "Frame26": 4,
+  "Frame27": 3,
+  "Frame28": 3,
+  "Frame29": 3,
+  "Frame30": 3,
+  "Frame31": 5,
+  "Frame32": 4,
+  "Frame33": 4,
+  "Frame34": 2,
+  "Frame35": 2,
+  "Frame36": 1,
+  "Frame37": 4,
+  "Frame38": 3,
+  "Frame39": 2,
+  "Frame40": 3
+}
+{
+  "Frame41": 2,
+  "Frame42": 2,
+  "Frame43": 2,
+  "Frame44": 2,
+  "Frame45": 2,
+  "Frame46": 3,
+  "Frame47": 1,
+  "Frame48": 1,
+  "Frame49": 2,
+  "Frame50": 4,
+  "Frame51": 4,
+  "Frame52": 3,
+  "Frame53": 3,
+  "Frame54": 2,
+  "Frame55": 2,
+  "Frame56": 4,
+  "Frame57": 4,
+  "Frame58": 4,
+  "Frame59": 4,
+  "Frame60": 4
+}
+{
+  "Frame61": 4,
+  "Frame62": 3,
+  "Frame63": 3,
+  "Frame64": 2,
+  "Frame65": 1,
+  "Frame66": 1,
+  "Frame67": 1,
+  "Frame68": 2,
+  "Frame69": 2,
+  "Frame70": 2,
+  "Frame71": 5,
+  "Frame72": 4,
+  "Frame73": 4,
+  "Frame74": 5,
+  "Frame75": 4,
+  "Frame76": 3,
+  "Frame77": 3,
+  "Frame78": 3,
+  "Frame79": 4,
+  "Frame80": 4
+}
+Frame 1: Introduction to Pet Joy Spa Grooming Services
+Frame 2: State-of-the-art equipment and veterinary cages with wooden slats
+Frame 3: Comfortable bedding for pets after grooming
+Frame 4: Tables that can lower for easier access
+Frame 5: Minimizing stress for animals during grooming
+Frame 6: High-quality food options, including grain-free and raw options
+Frame 7: Prioritizing ingredients like wild-caught salmon over factory-farmed options
+Frame 8: Welcoming feedback from customers
+Frame 9: Prioritizing good quality food treats
+
+{
+  "frame1": 3,
+  "frame2": 4,
+  "frame3": 2,
+  "frame4": 2,
+  "frame5": 5,
+  "frame6": 4,
+  "frame7": 4,
+  "frame8": 3,
+  "frame9": 3
+}

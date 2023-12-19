@@ -1,0 +1,49 @@
+1. Frame13 - a car with a dog in the driver's seat
+2. Frame46 - a car that is parked in a parking lot
+3. Frame47 - a man standing in the middle of a parking lot
+4. Frame48 - people are walking around a parking lot
+5. Frame50 - people standing around a car
+6. Frame4 - a street scene with cars and a fire hydrant
+7. Frame19 - a street scene with cars and pedestrians
+8. Frame45 - a man standing next to a car with a surfboard
+9. Frame22 - a man standing next to a car on a street
+10. Frame30 - a man standing next to a woman in front of a truck
+{
+  "Frame51": 1,
+  "Frame52": 2,
+  "Frame53": 2,
+  "Frame54": 1,
+  "Frame55": 2,
+  "Frame56": 2,
+  "Frame57": 3,
+  "Frame58": 4,
+  "Frame59": 2,
+  "Frame60": 1,
+  "Frame61": 2,
+  "Frame62": 2,
+  "Frame63": 3,
+  "Frame64": 2,
+  "Frame65": 3,
+  "Frame66": 1,
+  "Frame67": 2,
+  "Frame68": 2,
+  "Frame69": 2,
+  "Frame70": 2,
+  "Frame71": 2,
+  "Frame72": 2,
+  "Frame73": 2,
+  "Frame74": 4,
+  "Frame75": 2,
+  "Frame76": 1,
+  "Frame77": 3,
+  "Frame78": 2,
+  "Frame79": 2,
+  "Frame80": 4,
+  "Frame81": 2,
+  "Frame82": 3,
+  "Frame83": 2,
+  "Frame84": 2,
+  "Frame85": 3,
+  "Frame86": 2,
+  "Frame87": 2
+}

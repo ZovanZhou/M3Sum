@@ -1,0 +1,11 @@
+Frame0-12: No significant action or movement, score 1.
+
+Frame13-24: A person is seen running towards a ramp, score 3.
+
+Frame25-36: The person jumps off the ramp and performs a mid-air spin, score 5.
+
+Frame37-48: The person lands successfully on the ground, score 4.
+
+Frame49-60: The person celebrates with a fist pump, score 2. 
+
+JSON output: {"frame_scores": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]}

@@ -1,0 +1,130 @@
+Frame1: 1
+Frame2: 1
+Frame3: 1
+Frame4: 1
+Frame5: 3
+Frame6: 1
+Frame7: 1
+Frame8: 2
+Frame9: 2
+Frame10: 2
+Frame11: 2
+Frame12: 2
+Frame13: 2
+Frame14: 2
+Frame15: 1
+Frame16: 4
+Frame17: 1
+Frame18: 2
+Frame19: 1
+Frame20: 2
+Frame21: 1
+Frame22: 2
+Frame23: 2
+Frame24: 1
+Frame25: 2
+Frame26: 2
+Frame27: 1
+Frame28: 2
+Frame29: 1
+Frame30: 2
+Frame31: 2
+Frame32: 2
+Frame33: 2
+Frame34: 2
+Frame35: 4
+Frame36: 3
+Frame37: 2
+Frame38: 2
+Frame39: 2
+Frame40: 2
+Frame41: 2
+Frame42: 2
+Frame43: 2
+Frame44: 2
+Frame45: 2
+Frame46: 2
+Frame47: 2
+Frame48: 1
+Frame49: 1
+Frame50: 1
+
+JSON output:
+{
+"Frame1": 1,
+"Frame2": 1,
+"Frame3": 1,
+"Frame4": 1,
+"Frame5": 3,
+"Frame6": 1,
+"Frame7": 1,
+"Frame8": 2,
+"Frame9": 2,
+"Frame10": 2,
+"Frame11": 2,
+"Frame12": 2,
+"Frame13": 2,
+"Frame14": 2,
+"Frame15": 1,
+"Frame16": 4,
+"Frame17": 1,
+"Frame18": 2,
+"Frame19": 1,
+"Frame20": 2,
+"Frame21": 1,
+"Frame22": 2,
+"Frame23": 2,
+"Frame24": 1,
+"Frame25": 2,
+"Frame26": 2,
+"Frame27": 1,
+"Frame28": 2,
+"Frame29": 1,
+"Frame30": 2,
+"Frame31": 2,
+"Frame32": 2,
+"Frame33": 2,
+"Frame34": 2,
+"Frame35": 4,
+"Frame36": 3,
+"Frame37": 2,
+"Frame38": 2,
+"Frame39": 2,
+"Frame40": 2,
+"Frame41": 2,
+"Frame42": 2,
+"Frame43": 2,
+"Frame44": 2,
+"Frame45": 2,
+"Frame46": 2,
+"Frame47": 2,
+"Frame48": 1,
+"Frame49": 1,
+"Frame50": 1
+}
+Frame53: a group of children playing with a ball in a park. 
+Frame54: a close-up of the ball being kicked by one of the children. 
+Frame55: a slow-motion shot of the ball flying through the air towards the goal. 
+Frame56: the ball hitting the back of the net and bouncing back out. 
+Frame57: the children cheering and high-fiving each other after scoring the goal. 
+
+Based on the descriptions provided, here are the scores assigned to each frame:
+
+Frame51: 1
+Frame52: 1
+Frame53: 3
+Frame54: 2
+Frame55: 4
+Frame56: 3
+Frame57: 5
+
+JSON output:
+{
+  "Frame51": 1,
+  "Frame52": 1,
+  "Frame53": 3,
+  "Frame54": 2,
+  "Frame55": 4,
+  "Frame56": 3,
+  "Frame57": 5
+}

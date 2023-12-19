@@ -1,0 +1,39 @@
+Frame0-5: 2
+Frame5-8: 1
+Frame8-11: 2
+Frame11-15: 4
+Frame15-18: 3
+Frame18-22: 1
+Frame22-24: 1
+Frame24-27: 2
+Frame27-30: 3
+Frame30-33: 2
+Frame33-38: 5
+Frame38-42: 4
+Frame42-47: 3
+Frame47-49: 2
+Frame49-52: 3
+Frame52-56: 4
+Frame56-60: 5
+Frame60-63: 3
+Frame63-68: 2
+Frame68-71: 1
+{
+    "Frame71-76": 2,
+    "Frame76-79": 1,
+    "Frame82-84": 3,
+    "Frame85-87": 2,
+    "Frame87-92": 1,
+    "Frame92-96": 2,
+    "Frame97-100": 1,
+    "Frame100-104": 2,
+    "Frame104-108": 3,
+    "Frame108-114": 2,
+    "Frame123-125": 1,
+    "Frame125-130": 1,
+    "Frame130-140": 1,
+    "Frame140-147": 2,
+    "Frame147-152": 1,
+    "Frame152-158": 2,
+    "Frame158-169": 1
+}

@@ -1,0 +1,142 @@
+Frame1: 1
+Frame2: 1
+Frame3: 1
+Frame4: 1
+Frame5: 1
+Frame6: 1
+Frame7: 1
+Frame8: 3
+Frame9: 3
+Frame10: 3
+Frame11: 2
+Frame12: 2
+Frame13: 2
+Frame14: 2
+Frame15: 4
+Frame16: 4
+Frame17: 4
+Frame18: 4
+Frame19: 4
+Frame20: 4
+
+{
+  "Frame1": 1,
+  "Frame2": 1,
+  "Frame3": 1,
+  "Frame4": 1,
+  "Frame5": 1,
+  "Frame6": 1,
+  "Frame7": 1,
+  "Frame8": 3,
+  "Frame9": 3,
+  "Frame10": 3,
+  "Frame11": 2,
+  "Frame12": 2,
+  "Frame13": 2,
+  "Frame14": 2,
+  "Frame15": 4,
+  "Frame16": 4,
+  "Frame17": 4,
+  "Frame18": 4,
+  "Frame19": 4,
+  "Frame20": 4
+}
+Frame21: 2
+Frame22: 2
+Frame23: 2
+Frame24: 1
+Frame25: 1
+Frame26: 1
+Frame27: 3
+Frame28: 3
+Frame29: 3
+Frame30: 3
+Frame31: 4
+Frame32: 3
+Frame33: 4
+Frame34: 4
+Frame35: 2
+Frame36: 2
+Frame37: 1
+Frame38: 1
+Frame39: 5
+Frame40: 5
+
+{
+"Frame21": 2,
+"Frame22": 2,
+"Frame23": 2,
+"Frame24": 1,
+"Frame25": 1,
+"Frame26": 1,
+"Frame27": 3,
+"Frame28": 3,
+"Frame29": 3,
+"Frame30": 3,
+"Frame31": 4,
+"Frame32": 3,
+"Frame33": 4,
+"Frame34": 4,
+"Frame35": 2,
+"Frame36": 2,
+"Frame37": 1,
+"Frame38": 1,
+"Frame39": 5,
+"Frame40": 5
+}
+Frame41: 3
+Frame42: 1
+Frame43: 2
+Frame44: 1
+Frame45: 1
+Frame46: 2
+Frame47: 2
+Frame48: 4
+Frame49: 4
+Frame50: 4
+Frame51: 5
+Frame52: 5
+Frame53: 3
+Frame54: 5
+Frame55: 5
+Frame56: 3
+Frame57: 4
+Frame58: 3
+Frame59: 3
+Frame60: 1
+
+{
+"41": 3,
+"42": 1,
+"43": 2,
+"44": 1,
+"45": 1,
+"46": 2,
+"47": 2,
+"48": 4,
+"49": 4,
+"50": 4,
+"51": 5,
+"52": 5,
+"53": 3,
+"54": 5,
+"55": 5,
+"56": 3,
+"57": 4,
+"58": 3,
+"59": 3,
+"60": 1
+}
+{
+  "Frame61": 2,
+  "Frame62": 2,
+  "Frame63": 4,
+  "Frame64": 4,
+  "Frame65": 4,
+  "Frame66": 4,
+  "Frame67": 4,
+  "Frame68": 1,
+  "Frame69": 1,
+  "Frame70": 1,
+  "Frame71": 1
+}

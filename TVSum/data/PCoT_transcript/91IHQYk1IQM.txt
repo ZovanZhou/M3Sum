@@ -1,0 +1,122 @@
+{
+  "Frame1": 2,
+  "Frame2": 2,
+  "Frame3": 3,
+  "Frame4": 2,
+  "Frame5": 3,
+  "Frame6": 2,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 1,
+  "Frame10": 4,
+  "Frame11": 4,
+  "Frame12": 2,
+  "Frame13": 3,
+  "Frame14": 4,
+  "Frame15": 2,
+  "Frame16": 5,
+  "Frame17": 5,
+  "Frame18": 4,
+  "Frame19": 5,
+  "Frame20": 3,
+  "Frame21": 2,
+  "Frame22": 2,
+  "Frame23": 4,
+  "Frame24": 4,
+  "Frame25": 4,
+  "Frame26": 3,
+  "Frame27": 3,
+  "Frame28": 2,
+  "Frame29": 2,
+  "Frame30": 4,
+  "Frame31": 1,
+  "Frame32": 4,
+  "Frame33": 5,
+  "Frame34": 2,
+  "Frame35": 2,
+  "Frame36": 4,
+  "Frame37": 3,
+  "Frame38": 3,
+  "Frame39": 2,
+  "Frame40": 2,
+  "Frame41": 3,
+  "Frame42": 2,
+  "Frame43": 2,
+  "Frame44": 3,
+  "Frame45": 3,
+  "Frame46": 3,
+  "Frame47": 4,
+  "Frame48": 2,
+  "Frame49": 4,
+  "Frame50": 3
+}
+Frame1: People walking down the street
+Score: 2
+
+Frame2: Buildings in Chinatown
+Score: 2
+
+Frame3: Chinese New Year decorations
+Score: 3
+
+Frame4: Crowds of people on the street
+Score: 2
+
+Frame5: A woman holding a red and white sign
+Score: 4
+
+Frame6: A group of people dressed up in costumes
+Score: 4
+
+Frame7: A girl looking at stuffed animals
+Score: 3
+
+Frame8: Kite flying above a building
+Score: 3
+
+Frame9: Person holding a guitar
+Score: 3
+
+Frame10: Buildings with clocks on their sides
+Score: 2
+
+Frame51: A dump truck parked on the side of the road
+Score: 1
+
+Frame52: A dump truck parked on the side of the road
+Score: 1
+
+Frame53: A sign with a picture of a man on it
+Score: 2
+
+Frame54: A sign with a picture of a man on it
+Score: 2
+
+Frame55: A sign with a picture of a man on it
+Score: 2
+
+Frame56: A sign with a picture of a man on it
+Score: 2
+
+Frame57: A sign with a picture of a man on it
+Score: 2
+
+{
+"Frame1": 2,
+"Frame2": 2,
+"Frame3": 3,
+"Frame4": 2,
+"Frame5": 4,
+"Frame6": 4,
+"Frame7": 3,
+"Frame8": 3,
+"Frame9": 3,
+"Frame10": 2,
+"Frame51": 1,
+"Frame52": 1,
+"Frame53": 2,
+"Frame54": 2,
+"Frame55": 2,
+"Frame56": 2,
+"Frame57": 2
+}

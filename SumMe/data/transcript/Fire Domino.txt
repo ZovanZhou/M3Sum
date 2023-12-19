@@ -1,0 +1,14 @@
+Frame1-5: A match is lit and placed on a domino.
+Score: 2
+
+Frame6-10: The flame spreads to the first domino, causing it to fall over.
+Score: 3
+
+Frame11-15: The falling domino hits another domino, causing a chain reaction.
+Score: 4
+
+Frame15-20: Multiple dominoes fall in succession, creating a fiery trail.
+Score: 5
+
+Frame20-25: The last domino falls, triggering a large explosion of fire.
+Score: 4

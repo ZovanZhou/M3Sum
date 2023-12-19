@@ -1,0 +1,86 @@
+{
+    "Frame0-3": 2,
+    "Frame3-6": 1,
+    "Frame6-8": 1,
+    "Frame8-11": 2,
+    "Frame11-14": 3,
+    "Frame14-18": 2,
+    "Frame18-21": 4,
+    "Frame21-23": 2,
+    "Frame23-27": 3,
+    "Frame27-31": 3,
+    "Frame31-33": 2,
+    "Frame33-39": 4,
+    "Frame39-42": 2,
+    "Frame48-51": 2,
+    "Frame51-56": 3,
+    "Frame56-64": 4,
+    "Frame64-69": 3,
+    "Frame69-73": 4,
+    "Frame73-75": 2,
+    "Frame75-76": 1
+}
+{
+    "Frame76-81": 2,
+    "Frame81-82": 1,
+    "Frame82-87": 3,
+    "Frame87-88": 1,
+    "Frame88-90": 2,
+    "Frame90-98": 2,
+    "Frame98-108": 4,
+    "Frame108-113": 3,
+    "Frame113-118": 3,
+    "Frame118-124": 2,
+    "Frame124-128": 2,
+    "Frame128-133": 1,
+    "Frame133-139": 2,
+    "Frame139-148": 3,
+    "Frame148-151": 2,
+    "Frame151-157": 4,
+    "Frame157-159": 2,
+    "Frame159-163": 3,
+    "Frame163-168": 4,
+    "Frame178-182": 1
+}
+Range 1: 0:00-0:30
+Frame 1: A group of women in graduation gowns walking down a street.
+Frame 2: A close-up of a woman's face as she smiles and waves at the camera.
+Frame 3: A shot of a banner that reads "Alumnae Parade & Laurel Chain Ceremony".
+Frame 4: A group of women holding a large laurel chain and walking down the street.
+
+Range 2: 0:31-1:00
+Frame 5: A shot of a marching band playing music.
+Frame 6: A group of women in white dresses carrying flowers and walking down the street.
+Frame 7: A close-up of a woman's face as she places a flower on a memorial statue.
+Frame 8: A shot of a group of women in graduation gowns standing in front of a building.
+
+Range 3: 1:01-1:30
+Frame 9: A shot of a woman giving a speech on a stage.
+Frame 10: A group of women in graduation gowns walking across a field.
+Frame 11: A close-up of a woman's face as she receives a medal.
+Frame 12: A shot of a group of women in graduation gowns throwing their caps in the air.
+
+Range 4: 1:31-2:00
+Frame 13: A shot of a group of women in graduation gowns hugging each other.
+Frame 14: A close-up of a woman's face as she wipes away tears.
+Frame 15: A shot of a group of women in graduation gowns posing for a photo.
+Frame 16: A shot of a group of women in graduation gowns walking away from the camera. 
+
+{
+"frame1": 2,
+"frame2": 3,
+"frame3": 1,
+"frame4": 3,
+"frame5": 2,
+"frame6": 2,
+"frame7": 3,
+"frame8": 1,
+"frame9": 4,
+"frame10": 3,
+"frame11": 4,
+"frame12": 5,
+"frame13": 4,
+"frame14": 3,
+"frame15": 2,
+"frame16": 1
+}

@@ -1,0 +1,16 @@
+Frame68-75: A car driving on a sandy beach with the camera following behind it, kicking up sand as it goes. The car drives towards the camera and then swerves to the left, narrowly missing the camera. The camera falls over and the screen goes black. The sound of the car engine can still be heard.
+
+Frame76-83: The camera is lying on its side in the sand, pointing towards the sky. The sound of waves crashing can be heard in the background. A hand reaches into frame and picks up the camera, turning it around to face the person holding it. The person's face is not visible, but they appear to be wearing a hat and sunglasses. They say something unintelligible and then the video ends.
+
+Based on the descriptions and transcripts of frames, the scores for each frame are:
+
+Frame60-67: 2
+Frame68-75: 5
+Frame76-83: 3
+
+JSON output:
+{
+    "Frame60-67": 2,
+    "Frame68-75": 5,
+    "Frame76-83": 3
+}

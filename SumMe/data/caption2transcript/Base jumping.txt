@@ -1,0 +1,78 @@
+{
+    "Frame0-4": 1,
+    "Frame4-4": 2,
+    "Frame9-10": 3,
+    "Frame10-11": 2,
+    "Frame11-13": 4,
+    "Frame13-13": 1,
+    "Frame13-14": 3,
+    "Frame14-14": 2,
+    "Frame30-30": 1,
+    "Frame30-31": 3,
+    "Frame31-31": 2,
+    "Frame31-32": 2,
+    "Frame32-32": 2,
+    "Frame32-33": 3,
+    "Frame33-33": 2,
+    "Frame33-34": 3,
+    "Frame34-34": 2,
+    "Frame34-35": 2,
+    "Frame35-35": 2,
+    "Frame35-36": 2,
+    "Frame36-36": 2,
+    "Frame36-37": 3,
+    "Frame37-37": 2,
+    "Frame37-38": 4,
+    "Frame38-38": 1,
+    "Frame38-39": 3,
+    "Frame39-39": 2,
+    "Frame39-40": 3
+}
+{
+    "Frame40-40": 1,
+    "Frame40-41": 2,
+    "Frame41-42": 3,
+    "Frame42-42": 1,
+    "Frame42-43": 2,
+    "Frame43-43": 1,
+    "Frame43-44": 2,
+    "Frame44-45": 2,
+    "Frame47-48": 3,
+    "Frame48-48": 1,
+    "Frame48-49": 2,
+    "Frame49-49": 1,
+    "Frame49-50": 2,
+    "Frame50-50": 1,
+    "Frame50-51": 1,
+    "Frame51-51": 1,
+    "Frame51-52": 2,
+    "Frame52-52": 1,
+    "Frame52-58": 2,
+    "Frame58-61": 3,
+    "Frame61-63": 2,
+    "Frame63-64": 1,
+    "Frame64-66": 2,
+    "Frame66-67": 1,
+    "Frame67-69": 2,
+    "Frame69-70": 3,
+    "Frame71-72": 2,
+    "Frame72-73": 3,
+    "Frame73-74": 2,
+    "Frame74-75": 2
+}
+Score: 2
+
+Frame77-78: og så er det bare å hoppe ut view from a plane of a person jumping off the mountain 
+Score: 4
+
+Frame79-80: og da er det fritt fall view from a camera attached to the jumper's helmet 
+Score: 5
+
+Frame81-82: før man trekker i snora og fallskjermen åpner seg view from the camera attached to the jumper's helmet of the parachute opening 
+Score: 3
+
+Frame83-84: og så svever man nedover view from the camera attached to the jumper's helmet of the jumper floating down with the parachute 
+Score: 4
+
+Frame85-86: og lander trygt på bakken view from the ground of the jumper landing with the parachute 
+Score: 3

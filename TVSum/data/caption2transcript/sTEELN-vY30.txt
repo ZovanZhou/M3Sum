@@ -1,0 +1,46 @@
+{
+    "Frame0-2": 2,
+    "Frame2-3": 1,
+    "Frame3-5": 3,
+    "Frame5-7": 2,
+    "Frame7-8": 1,
+    "Frame8-10": 2,
+    "Frame10-11": 1,
+    "Frame12-13": 1,
+    "Frame13-13": 1,
+    "Frame13-16": 3,
+    "Frame16-17": 1,
+    "Frame17-18": 2,
+    "Frame18-21": 3,
+    "Frame21-22": 2,
+    "Frame23-24": 2,
+    "Frame24-24": 1,
+    "Frame24-26": 4,
+    "Frame26-28": 3,
+    "Frame28-29": 1,
+    "Frame29-31": 1
+}
+{
+    "Frame31-32": 2,
+    "Frame32-33": 2,
+    "Frame33-35": 3,
+    "Frame35-36": 2,
+    "Frame36-38": 3,
+    "Frame38-40": 4,
+    "Frame40-42": 1,
+    "Frame42-44": 1,
+    "Frame45-47": 3,
+    "Frame47-50": 2,
+    "Frame50-51": 1,
+    "Frame51-54": 4,
+    "Frame54-56": 1,
+    "Frame56-57": 1,
+    "Frame57-59": 2,
+    "Frame59-63": 3,
+    "Frame63-65": 4,
+    "Frame65-66": 2,
+    "Frame66-69": 1,
+    "Frame69-71": 2
+}
+Frame71-73: {"score": 2}
+Frame73-82: {"score": 1}

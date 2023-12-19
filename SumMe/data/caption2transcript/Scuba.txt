@@ -1,0 +1,27 @@
+Range 1: 0:00-0:30
+Frame 1: A person in scuba gear is seen walking towards the ocean.
+Frame 2: The person puts on their mask and adjusts it before entering the water.
+Frame 3: The camera follows the person as they descend into the water.
+
+Range 2: 0:31-1:00
+Frame 4: The person swims past a school of fish.
+Frame 5: A sea turtle swims by and the person follows it for a short distance.
+Frame 6: The person explores a coral reef, pointing out different types of fish and coral.
+
+Range 3: 1:01-1:30
+Frame 7: The person comes across a shipwreck and investigates it.
+Frame 8: A group of divers join the person and they all explore the shipwreck together.
+Frame 9: The person and the group of divers ascend to the surface and remove their gear. 
+
+JSON Output:
+{
+"Frame 1": 2,
+"Frame 2": 3,
+"Frame 3": 2,
+"Frame 4": 2,
+"Frame 5": 3,
+"Frame 6": 4,
+"Frame 7": 5,
+"Frame 8": 4,
+"Frame 9": 3
+}

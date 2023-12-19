@@ -1,0 +1,157 @@
+{
+  "Frame1": 2,
+  "Frame2": 1,
+  "Frame3": 3,
+  "Frame4": 5,
+  "Frame5": 3,
+  "Frame6": 4,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 2,
+  "Frame10": 4,
+  "Frame11": 1,
+  "Frame12": 2,
+  "Frame13": 1,
+  "Frame14": 3,
+  "Frame15": 4,
+  "Frame16": 5,
+  "Frame17": 5,
+  "Frame18": 5,
+  "Frame19": 3,
+  "Frame20": 4,
+  "Frame21": 4,
+  "Frame22": 3,
+  "Frame23": 2,
+  "Frame24": 2,
+  "Frame25": 1,
+  "Frame26": 3,
+  "Frame27": 2,
+  "Frame28": 3,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 3,
+  "Frame32": 4,
+  "Frame33": 4,
+  "Frame34": 3,
+  "Frame35": 4,
+  "Frame36": 2,
+  "Frame37": 2,
+  "Frame38": 3,
+  "Frame39": 1,
+  "Frame40": 2,
+  "Frame41": 1,
+  "Frame42": 3,
+  "Frame43": 1,
+  "Frame44": 2,
+  "Frame45": 3,
+  "Frame46": 4,
+  "Frame47": 2,
+  "Frame48": 4,
+  "Frame49": 2,
+  "Frame50": 4
+}
+{
+  "Frame51": 2,
+  "Frame52": 2,
+  "Frame53": 1,
+  "Frame54": 1,
+  "Frame55": 2,
+  "Frame56": 3,
+  "Frame57": 4,
+  "Frame58": 1,
+  "Frame59": 3,
+  "Frame60": 2,
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 1,
+  "Frame64": 2,
+  "Frame65": 1,
+  "Frame66": 2,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 2,
+  "Frame70": 3,
+  "Frame71": 2,
+  "Frame72": 2,
+  "Frame73": 1,
+  "Frame74": 2,
+  "Frame75": 1,
+  "Frame76": 2,
+  "Frame77": 2,
+  "Frame78": 3,
+  "Frame79": 2,
+  "Frame80": 3,
+  "Frame81": 2,
+  "Frame82": 1,
+  "Frame83": 2,
+  "Frame84": 2,
+  "Frame85": 2,
+  "Frame86": 1,
+  "Frame87": 1,
+  "Frame88": 1,
+  "Frame89": 2,
+  "Frame90": 3,
+  "Frame91": 4,
+  "Frame92": 2,
+  "Frame93": 2,
+  "Frame94": 2,
+  "Frame95": 1,
+  "Frame96": 2,
+  "Frame97": 3,
+  "Frame98": 1,
+  "Frame99": 2
+}
+Frame 1: A wide shot of the Eiffel Tower from a distance, with the surrounding city visible in the background.
+
+Score: 3
+
+Frame 2: A close-up shot of the base of the Eiffel Tower, showcasing its intricate metalwork and design.
+
+Score: 4
+
+Frame 3: A shot of the elevator ascending up the Eiffel Tower, with a view of the city becoming more prominent as it climbs higher.
+
+Score: 2
+
+Frame 4: A panoramic shot from the top of the Eiffel Tower, showing the entire cityscape below.
+
+Score: 5
+
+Frame 5: A shot of tourists taking selfies and enjoying the view from the observation deck of the Eiffel Tower.
+
+Score: 2
+
+Frame 6: A time-lapse shot of the Eiffel Tower at night, with its lights twinkling against the dark sky.
+
+Score: 4
+
+Frame 7: A shot of the Eiffel Tower during a fireworks display, with colorful explosions lighting up the sky around it.
+
+Score: 5
+
+Frame 8: A shot of the Eiffel Tower at sunset, with the orange and pink hues of the sky creating a beautiful backdrop.
+
+Score: 3
+
+Frame 9: A shot of the Eiffel Tower from a boat on the Seine River, with the tower reflected in the water.
+
+Score: 2
+
+Frame 10: A close-up shot of the intricate details of the Eiffel Tower's iron lattice structure.
+
+Score: 4
+
+{
+"frame_scores": {
+    "frame_1": 3,
+    "frame_2": 4,
+    "frame_3": 2,
+    "frame_4": 5,
+    "frame_5": 2,
+    "frame_6": 4,
+    "frame_7": 5,
+    "frame_8": 3,
+    "frame_9": 2,
+    "frame_10": 4
+  }
+}

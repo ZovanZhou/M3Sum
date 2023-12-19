@@ -1,0 +1,142 @@
+{
+  "Frame1": 1,
+  "Frame2": 1,
+  "Frame3": 1,
+  "Frame4": 1,
+  "Frame5": 1,
+  "Frame6": 2,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 2,
+  "Frame10": 2,
+  "Frame11": 3,
+  "Frame12": 2,
+  "Frame13": 3,
+  "Frame14": 2,
+  "Frame15": 2,
+  "Frame16": 1,
+  "Frame17": 1,
+  "Frame18": 4,
+  "Frame19": 3,
+  "Frame20": 1
+}
+{
+  "Frame21": 1,
+  "Frame22": 1,
+  "Frame23": 2,
+  "Frame24": 4,
+  "Frame25": 3,
+  "Frame26": 1,
+  "Frame27": 1,
+  "Frame28": 1,
+  "Frame29": 1,
+  "Frame30": 1,
+  "Frame31": 1,
+  "Frame32": 1,
+  "Frame33": 1,
+  "Frame34": 1,
+  "Frame35": 2,
+  "Frame36": 3,
+  "Frame37": 1,
+  "Frame38": 1,
+  "Frame39": 2,
+  "Frame40": 2
+}
+{
+  "Frame41": 3,
+  "Frame42": 2,
+  "Frame43": 2,
+  "Frame44": 3,
+  "Frame45": 4,
+  "Frame46": 2,
+  "Frame47": 1,
+  "Frame48": 1,
+  "Frame49": 1,
+  "Frame50": 4,
+  "Frame51": 3,
+  "Frame52": 3,
+  "Frame53": 3,
+  "Frame54": 3,
+  "Frame55": 2,
+  "Frame56": 2,
+  "Frame57": 3,
+  "Frame58": 2,
+  "Frame59": 5,
+  "Frame60": 5
+}
+{
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 1,
+  "Frame64": 2,
+  "Frame65": 2,
+  "Frame66": 1,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 4,
+  "Frame70": 3,
+  "Frame71": 4,
+  "Frame72": 3,
+  "Frame73": 4,
+  "Frame74": 4,
+  "Frame75": 3,
+  "Frame76": 3,
+  "Frame77": 5,
+  "Frame78": 5,
+  "Frame79": 5,
+  "Frame80": 4
+}
+{
+  "Frame81": 2,
+  "Frame82": 3,
+  "Frame83": 2,
+  "Frame84": 1,
+  "Frame85": 4,
+  "Frame86": 1,
+  "Frame87": 2,
+  "Frame88": 1,
+  "Frame89": 2,
+  "Frame90": 1,
+  "Frame91": 5,
+  "Frame92": 4,
+  "Frame93": 3,
+  "Frame94": 1,
+  "Frame95": 1,
+  "Frame96": 2,
+  "Frame97": 4,
+  "Frame98": 1,
+  "Frame99": 2,
+  "Frame100": 1
+}
+Score: 1
+
+Frame102: a group of individuals riding motorcycles and performing stunts in an outdoor setting.
+
+Score: 4
+
+Frame103: an interview with Felipe Smage discussing his experience with riding and trials.
+
+Score: 5
+
+Frame104: footage of individuals riding skateboards and horses as part of the stunt show.
+
+Score: 3
+
+Frame105: the group bringing their stunt show to indoor areas and performing for audiences.
+
+Score: 4
+
+Frame106: the group scoring a gig at the International Motorcycle Show.
+
+Score: 5
+
+JSON output:
+
+{
+  "Frame101": 1,
+  "Frame102": 4,
+  "Frame103": 5,
+  "Frame104": 3,
+  "Frame105": 4,
+  "Frame106": 5
+}

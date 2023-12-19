@@ -1,0 +1,150 @@
+{
+    "Frame0-3": 2,
+    "Frame3-4": 1,
+    "Frame4-5": 1,
+    "Frame5-5": 1,
+    "Frame5-7": 1,
+    "Frame7-7": 1,
+    "Frame7-8": 1,
+    "Frame8-9": 2,
+    "Frame9-10": 1,
+    "Frame10-12": 3,
+    "Frame12-13": 2,
+    "Frame13-14": 2,
+    "Frame14-17": 4,
+    "Frame17-19": 3,
+    "Frame20-22": 2,
+    "Frame22-24": 4,
+    "Frame24-25": 3,
+    "Frame26-27": 3,
+    "Frame27-28": 4,
+    "Frame28-29": 1
+}
+{
+    "Frame29-29": 2,
+    "Frame29-31": 3,
+    "Frame32-34": 2,
+    "Frame34-34": 1,
+    "Frame34-37": 2,
+    "Frame37-38": 1,
+    "Frame38-39": 1,
+    "Frame39-42": 2,
+    "Frame44-44": 1,
+    "Frame46-47": 3,
+    "Frame47-48": 2,
+    "Frame48-50": 3,
+    "Frame51-52": 1,
+    "Frame52-54": 2,
+    "Frame55-57": 2,
+    "Frame57-59": 2,
+    "Frame60-61": 3,
+    "Frame63-64": 3,
+    "Frame64-65": 2,
+    "Frame65-66": 1
+}
+{
+    "Frame66-68": 2,
+    "Frame68-69": 3,
+    "Frame69-70": 1,
+    "Frame70-71": 4,
+    "Frame71-73": 2,
+    "Frame73-74": 3,
+    "Frame74-76": 1,
+    "Frame76-78": 2,
+    "Frame78-80": 3,
+    "Frame80-81": 4,
+    "Frame82-83": 3,
+    "Frame84-85": 2,
+    "Frame88-89": 3,
+    "Frame89-91": 4,
+    "Frame91-93": 2,
+    "Frame93-94": 1,
+    "Frame94-95": 1,
+    "Frame95-96": 3,
+    "Frame96-98": 2,
+    "Frame98-100": 4
+}
+{
+    "Frame100-102": 2,
+    "Frame102-103": 1,
+    "Frame103-106": 4,
+    "Frame106-108": 3,
+    "Frame110-111": 2,
+    "Frame111-113": 4,
+    "Frame113-114": 2,
+    "Frame115-116": 2,
+    "Frame116-118": 3,
+    "Frame120-122": 1,
+    "Frame123-125": 3,
+    "Frame125-126": 2,
+    "Frame126-128": 4,
+    "Frame128-129": 2,
+    "Frame129-131": 3,
+    "Frame131-133": 2,
+    "Frame133-134": 1,
+    "Frame134-136": 2,
+    "Frame136-138": 3,
+    "Frame138-140": 2
+}
+{
+    "Frame140-141": 2,
+    "Frame141-143": 3,
+    "Frame143-144": 1,
+    "Frame144-146": 2,
+    "Frame146-148": 4,
+    "Frame148-149": 2,
+    "Frame149-151": 3,
+    "Frame151-152": 1,
+    "Frame152-154": 4,
+    "Frame154-155": 2,
+    "Frame155-157": 3,
+    "Frame157-158": 2,
+    "Frame158-160": 3,
+    "Frame160-161": 2,
+    "Frame161-163": 3,
+    "Frame163-164": 2,
+    "Frame164-166": 1,
+    "Frame166-167": 2,
+    "Frame167-169": 3,
+    "Frame169-170": 1
+}
+{
+    "170-172": 2,
+    "172-173": 1,
+    "173-175": 3,
+    "175-176": 1,
+    "176-178": 2,
+    "178-179": 1,
+    "179-181": 2,
+    "181-182": 1,
+    "182-184": 2,
+    "184-185": 3,
+    "185-187": 4,
+    "187-188": 2,
+    "188-190": 2,
+    "190-191": 1,
+    "191-193": 4,
+    "193-194": 2,
+    "194-196": 3,
+    "196-197": 2,
+    "197-199": 3,
+    "199-209": 1
+}
+Range 1: 0:00-0:30
+Frame 1: The video starts with a shot of the ingredients for the spicy sausage sandwich laid out on a table.
+Frame 2: The host introduces the video and explains that he will be making a meal that is both delicious and affordable.
+Frame 3: The host begins by cooking the sausages in a pan over medium heat.
+
+Range 2: 0:31-1:00
+Frame 4: The host adds sliced onions and peppers to the pan with the sausages.
+Frame 5: The host seasons the mixture with salt, pepper, and red pepper flakes.
+Frame 6: The host toasts a hoagie roll and spreads mayonnaise on it.
+
+Range 3: 1:01-1:30
+Frame 7: The host adds the sausage mixture to the hoagie roll.
+Frame 8: The host tops the sandwich with shredded cheese and chopped cilantro.
+Frame 9: The host takes a bite of the sandwich and describes how flavorful it is.
+
+Range 4: 1:31-2:00
+Frame 10: The host encourages viewers to try making the sandwich themselves.
+Frame 11: The host signs off and the video ends.

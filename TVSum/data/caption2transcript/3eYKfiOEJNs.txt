@@ -1,0 +1,31 @@
+{
+    "Frame0-4": 2,
+    "Frame4-6": 1,
+    "Frame6-7": 1,
+    "Frame7-10": 3,
+    "Frame10-12": 2,
+    "Frame12-16": 5,
+    "Frame25-27": 2,
+    "Frame27-29": 2,
+    "Frame29-41": 4,
+    "Frame44-47": 3,
+    "Frame47-61": 1,
+    "Frame62-68": 2,
+    "Frame77-79": 4,
+    "Frame79-82": 5,
+    "Frame82-84": 2,
+    "Frame84-85": 3,
+    "Frame85-92": 4,
+    "Frame92-93": 3,
+    "Frame93-93": 1,
+    "Frame93-94": 1
+}
+Score:
+Frame94: 1
+Frame95: 2
+Frame96: 1
+Frame97: 1
+Frame98: 1
+Frame99: 1
+Frame100: 1
+Frame101: 1

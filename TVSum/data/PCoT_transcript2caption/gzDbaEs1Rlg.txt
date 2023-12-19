@@ -1,0 +1,200 @@
+Frame1: 1
+Frame2: 1
+Frame3: 2
+Frame4: 2
+Frame5: 2
+Frame6: 4
+Frame7: 4
+Frame8: 4
+Frame9: 3
+Frame10: 3
+Frame11: 3
+Frame12: 5
+Frame13: 5
+Frame14: 5
+Frame15: 4
+Frame16: 4
+Frame17: 5
+Frame18: 3
+Frame19: 3
+Frame20: 4
+
+{
+"Frame1": 1,
+"Frame2": 1,
+"Frame3": 2,
+"Frame4": 2,
+"Frame5": 2,
+"Frame6": 4,
+"Frame7": 4,
+"Frame8": 4,
+"Frame9": 3,
+"Frame10": 3,
+"Frame11": 3,
+"Frame12": 5,
+"Frame13": 5,
+"Frame14": 5,
+"Frame15": 4,
+"Frame16": 4,
+"Frame17": 5,
+"Frame18": 3,
+"Frame19": 3,
+"Frame20": 4
+}
+of view. 
+
+{
+"Frame21": 2,
+"Frame22": 2,
+"Frame23": 3,
+"Frame24": 3,
+"Frame25": 3,
+"Frame26": 4,
+"Frame27": 4,
+"Frame28": 4,
+"Frame29": 1,
+"Frame30": 1,
+"Frame31": 5,
+"Frame32": 5,
+"Frame33": 5,
+"Frame34": 5,
+"Frame35": 5,
+"Frame36": 4,
+"Frame37": 4,
+"Frame38": 4,
+"Frame39": 2,
+"Frame40": 2
+}
+valve using the filler tube.
+Frame61: a person holding a cell phone in their hand. All passengers should leave the vehicle during the repair process.
+Frame62: a man in a red shirt is driving a car. The kit cannot be used if the wheel rim is damaged or if the vehicle has been driven with an under-inflated or flat tire for an extended period.
+Frame63: a person holding a cell phone in their hand. After using the kit, it is important to check the tire pressure after 10 minutes and not exceed a maximum speed of 50 miles per hour.
+Frame64: a man standing next to a parked car. Contact a ŠKODA retailer or tire retailer immediately for further assistance.
+
+{
+"Frame41": 2,
+"Frame42": 3,
+"Frame43": 1,
+"Frame44": 1,
+"Frame45": 4,
+"Frame46": 3,
+"Frame47": 3,
+"Frame48": 1,
+"Frame49": 3,
+"Frame50": 2,
+"Frame51": 2,
+"Frame52": 4,
+"Frame53": 2,
+"Frame54": 1,
+"Frame55": 1,
+"Frame56": 1,
+"Frame57": 2,
+"Frame58": 2,
+"Frame59": 2,
+"Frame60": 5,
+"Frame61": 3,
+"Frame62": 5,
+"Frame63": 4,
+"Frame64": 5
+}
+{
+    "Frame61": 2,
+    "Frame62": 1,
+    "Frame63": 1,
+    "Frame64": 1,
+    "Frame65": 3,
+    "Frame66": 3,
+    "Frame67": 4,
+    "Frame68": 2,
+    "Frame69": 2,
+    "Frame70": 1,
+    "Frame71": 1,
+    "Frame72": 1,
+    "Frame73": 1,
+    "Frame74": 1,
+    "Frame75": 1,
+    "Frame76": 2,
+    "Frame77": 2,
+    "Frame78": 2,
+    "Frame79": 1,
+    "Frame80": 3
+}
+{
+  "Frame81": 2,
+  "Frame82": 2,
+  "Frame83": 3,
+  "Frame84": 3,
+  "Frame85": 1,
+  "Frame86": 1,
+  "Frame87": 4,
+  "Frame88": 4,
+  "Frame89": 1,
+  "Frame90": 2,
+  "Frame91": 2,
+  "Frame92": 2,
+  "Frame93": 1,
+  "Frame94": 1,
+  "Frame95": 3,
+  "Frame96": 2,
+  "Frame97": 4,
+  "Frame98": 3,
+  "Frame99": 3,
+  "Frame100": 5
+}
+{
+  "Frame101": 2,
+  "Frame102": 1,
+  "Frame103": 1,
+  "Frame104": 1,
+  "Frame105": 3,
+  "Frame106": 3,
+  "Frame107": 2,
+  "Frame108": 2,
+  "Frame109": 2,
+  "Frame110": 4,
+  "Frame111": 4,
+  "Frame112": 4,
+  "Frame113": 2,
+  "Frame114": 2,
+  "Frame115": 3,
+  "Frame116": 3,
+  "Frame117": 3,
+  "Frame118": 5,
+  "Frame119": 5,
+  "Frame120": 5
+}
+{
+  "Frame121": 1,
+  "Frame122": 1,
+  "Frame123": 4,
+  "Frame124": 2,
+  "Frame125": 2,
+  "Frame126": 3,
+  "Frame127": 1,
+  "Frame128": 1,
+  "Frame129": 1,
+  "Frame130": 1,
+  "Frame131": 1,
+  "Frame132": 1,
+  "Frame133": 1,
+  "Frame134": 1,
+  "Frame135": 1,
+  "Frame136": 1,
+  "Frame137": 1,
+  "Frame138": 1,
+  "Frame139": 1,
+  "Frame140": 1
+}
+Frame141: 1
+Frame142: 2
+Frame143: 2
+Frame144: 3
+Frame145: 1
+
+{
+"Frame141": 1,
+"Frame142": 2,
+"Frame143": 2,
+"Frame144": 3,
+"Frame145": 1
+}

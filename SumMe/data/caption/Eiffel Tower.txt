@@ -1,0 +1,154 @@
+{
+  "Frame1": 2,
+  "Frame2": 1,
+  "Frame3": 3,
+  "Frame4": 4,
+  "Frame5": 3,
+  "Frame6": 4,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 2,
+  "Frame10": 4,
+  "Frame11": 1,
+  "Frame12": 2,
+  "Frame13": 1,
+  "Frame14": 3,
+  "Frame15": 4,
+  "Frame16": 5,
+  "Frame17": 4,
+  "Frame18": 5,
+  "Frame19": 3,
+  "Frame20": 4,
+  "Frame21": 4,
+  "Frame22": 3,
+  "Frame23": 2,
+  "Frame24": 1,
+  "Frame25": 1,
+  "Frame26": 3,
+  "Frame27": 3,
+  "Frame28": 3,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 3,
+  "Frame32": 4,
+  "Frame33": 4,
+  "Frame34": 3,
+  "Frame35": 4,
+  "Frame36": 2,
+  "Frame37": 2,
+  "Frame38": 3,
+  "Frame39": 1,
+  "Frame40": 2,
+  "Frame41": 2,
+  "Frame42": 3,
+  "Frame43": 1,
+  "Frame44": 2,
+  "Frame45": 3,
+  "Frame46": 4,
+  "Frame47": 2,
+  "Frame48": 5,
+  "Frame49": 2,
+  "Frame50": 4,
+  "Frame51": 5,
+  "Frame52": 4,
+  "Frame53": 2,
+  "Frame54": 3,
+  "Frame55": 3,
+  "Frame56": 4,
+  "Frame57": 5,
+  "Frame58": 3,
+  "Frame59": 4,
+  "Frame60": 2,
+  "Frame61": 2,
+  "Frame62": 3,
+  "Frame63": 2,
+  "Frame64": 3,
+  "Frame65": 1,
+  "Frame66": 3,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 3,
+  "Frame70": 3,
+  "Frame71": 2,
+  "Frame72": 3,
+  "Frame73": 2,
+  "Frame74": 4,
+  "Frame75": 2,
+  "Frame76": 3,
+  "Frame77": 3,
+  "Frame78": 4,
+  "Frame79": 2,
+  "Frame80": 4,
+  "Frame81": 4,
+  "Frame82": 2,
+  "Frame83": 4,
+  "Frame84": 3,
+  "Frame85": 3,
+  "Frame86": 1,
+  "Frame87": 1,
+  "Frame88": 2,
+  "Frame89": 4,
+  "Frame90": 4,
+  "Frame91": 5,
+  "Frame92": 5,
+  "Frame93": 4,
+  "Frame94": 4,
+  "Frame95": 2,
+  "Frame96": 4,
+  "Frame97": 4,
+  "Frame98": 3,
+  "Frame99": 2,
+  "Frame100": 3
+}
+Frame 1: A wide shot of the Eiffel Tower from a distance, with the surrounding city visible in the background.
+
+Score: 3
+
+Frame 2: A close-up shot of the base of the Eiffel Tower, showing the intricate metalwork and details.
+
+Score: 4
+
+Frame 3: A shot of people walking around the base of the Eiffel Tower, giving a sense of scale and activity.
+
+Score: 2
+
+Frame 4: A view from the top of the Eiffel Tower, looking out over the city of Paris.
+
+Score: 5
+
+Frame 5: A time-lapse shot of the Eiffel Tower at night, with the lights twinkling and changing colors.
+
+Score: 4
+
+Frame 6: A shot of a street performer entertaining a crowd of tourists near the Eiffel Tower.
+
+Score: 2
+
+Frame 7: A close-up shot of the elevator mechanism inside the Eiffel Tower.
+
+Score: 3
+
+Frame 8: A shot of a couple kissing in front of the Eiffel Tower, with other tourists milling about in the background.
+
+Score: 2
+
+Frame 9: A shot of the Eiffel Tower during a thunderstorm, with lightning striking nearby.
+
+Score: 5
+
+Frame 10: A shot of a group of friends having a picnic on the grassy lawn near the Eiffel Tower.
+
+Score: 1
+
+{
+"frame1": 3,
+"frame2": 4,
+"frame3": 2,
+"frame4": 5,
+"frame5": 4,
+"frame6": 2,
+"frame7": 3,
+"frame8": 2,
+"frame9": 5,
+"frame10": 1
+}

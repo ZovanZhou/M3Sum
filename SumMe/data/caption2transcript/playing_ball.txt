@@ -1,0 +1,74 @@
+Frame0-5: 
+- Frame0: 1
+- Frame1: 2
+- Frame2: 1
+- Frame3: 2
+- Frame4: 3
+- Frame5: 4
+
+Frame5-10:
+- Frame6: 2
+- Frame7: 1
+- Frame8: 2
+- Frame9: 3
+- Frame10: 1
+
+Frame10-15:
+- Frame11: 2
+- Frame12: 3
+- Frame13: 2
+- Frame14: 1
+- Frame15: 4
+
+Frame15-20:
+- Frame16: 3
+- Frame17: 2
+- Frame18: 4
+- Frame19: 1
+- Frame20: 3
+
+Frame20-25:
+- Frame21: 2
+- Frame22: 1
+- Frame23: 3
+- Frame24: 2
+- Frame25: 4
+
+Frame25-30:
+- Frame26: 2
+- Frame27: 3
+- Frame28: 1
+- Frame29: 2
+- Frame30: 4
+
+Frame30-35:
+- Frame31: 3
+- Frame32: 2
+- Frame33: 3
+- Frame34: 2
+- Frame35: 4
+
+Frame35-40:
+- Frame36: 3
+- Frame37: 2
+- Frame38: 2
+- Frame39: 3
+- Frame40: 1
+
+Frame40-45:
+- Frame41: 2
+- Frame42: 3
+- Frame43: 2
+- Frame44: 1
+- Frame45: 4
+
+Frame45-50:
+- Frame46: 2
+- Frame47: 3
+- Frame48: 1
+- Frame49: 2
+- Frame50: 4
+
+Frame50-52:
+- Frame51: 2
+- Frame52: 1

@@ -1,0 +1,21 @@
+{
+  "Frame1": 2,
+  "Frame2": 3,
+  "Frame3": 2,
+  "Frame4": 1,
+  "Frame5": 3,
+  "Frame6": 2,
+  "Frame7": 3,
+  "Frame8": 2,
+  "Frame9": 3,
+  "Frame10": 2,
+  "Frame11": 1,
+  "Frame12": 4,
+  "Frame13": 2,
+  "Frame14": 2,
+  "Frame15": 3,
+  "Frame16": 3,
+  "Frame17": 1,
+  "Frame18": 3,
+  "Frame19": 2
+}

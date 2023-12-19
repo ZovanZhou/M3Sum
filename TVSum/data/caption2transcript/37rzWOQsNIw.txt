@@ -1,0 +1,62 @@
+{
+    "Frame0-11": 2,
+    "Frame11-13": 1,
+    "Frame13-16": 3,
+    "Frame16-19": 2,
+    "Frame19-19": 1,
+    "Frame19-20": 2,
+    "Frame20-20": 1,
+    "Frame20-21": 2,
+    "Frame21-21": 3,
+    "Frame21-22": 4,
+    "Frame22-22": 3,
+    "Frame22-23": 4,
+    "Frame23-32": 2,
+    "Frame32-34": 3,
+    "Frame34-36": 2,
+    "Frame36-39": 2,
+    "Frame39-45": 4,
+    "Frame45-53": 2,
+    "Frame53-55": 1,
+    "Frame55-56": 2
+}
+{
+    "Frame56-57": 2,
+    "Frame57-57": 1,
+    "Frame57-58": 2,
+    "Frame58-61": 3,
+    "Frame61-65": 4,
+    "Frame65-69": 3,
+    "Frame69-69": 1,
+    "Frame69-70": 2,
+    "Frame70-70": 2,
+    "Frame70-71": 3,
+    "Frame71-73": 2,
+    "Frame73-75": 3,
+    "Frame75-76": 2,
+    "Frame76-79": 4,
+    "Frame79-80": 3,
+    "Frame80-81": 4,
+    "Frame81-88": 5,
+    "Frame88-92": 2,
+    "Frame92-96": 1
+}
+Range 1: 0:00 - 0:30
+Frame 1: Introduction to Saigon Sandwich shop and its location in San Francisco.
+Frame 2: Close-up shots of different types of Vietnamese sandwiches being made.
+Frame 3: Interview with the owner of Saigon Sandwich about the history of the shop and their menu.
+
+Range 2: 0:31 - 1:00
+Frame 4: More close-up shots of sandwiches being made and ingredients being added.
+Frame 5: Customers ordering and receiving their sandwiches.
+Frame 6: Interview with a customer about their experience at Saigon Sandwich.
+
+Range 3: 1:01 - 1:30
+Frame 7: Shots of the interior of the shop and customers eating their sandwiches.
+Frame 8: Interview with another customer about their favorite sandwich at Saigon Sandwich.
+Frame 9: Shots of the exterior of the shop and people passing by on the street. 
+
+Range 4: 1:31 - 2:00
+Frame 10: Interview with the owner about the future of Saigon Sandwich and their plans for expansion.
+Frame 11: Shots of the owner and employees making sandwiches and preparing ingredients.
+Frame 12: Final shots of the shop and customers enjoying their sandwiches.

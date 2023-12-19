@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:07,000
+Concrete is the area we're working in.
+
+2
+00:01:01,000 --> 00:01:11,000
+The first thing we do is we put the concrete in the ground.
+
+3
+00:01:13,000 --> 00:01:23,000
+The first thing we do is we put the concrete in the ground.
+
+4
+00:01:23,000 --> 00:01:31,000
+The concrete is the area we're working in.
+
+5
+00:01:33,000 --> 00:01:41,000
+The concrete is the area we're working in.
+
+6
+00:01:41,000 --> 00:01:51,000
+The concrete is the area we're working in.
+
+7
+00:01:53,000 --> 00:02:01,000
+The concrete is the area we're working in.
+
+8
+00:02:01,000 --> 00:02:09,000
+The concrete is the area we're working in.
+
+9
+00:02:13,000 --> 00:02:21,000
+The concrete is the area we're working in.
+
+10
+00:02:21,000 --> 00:02:29,000
+The concrete is the area we're working in.
+
+11
+00:02:33,000 --> 00:02:41,000
+The concrete is the area we're working in.
+
+12
+00:03:11,000 --> 00:03:15,160
+cloudy skies
+
+

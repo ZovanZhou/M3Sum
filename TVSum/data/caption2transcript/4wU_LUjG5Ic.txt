@@ -1,0 +1,34 @@
+{
+    "Frame0-5": 2,
+    "Frame5-7": 1,
+    "Frame7-9": 2,
+    "Frame9-10": 1,
+    "Frame10-13": 3,
+    "Frame13-16": 2,
+    "Frame16-18": 1,
+    "Frame18-21": 2,
+    "Frame21-22": 1,
+    "Frame22-31": 3,
+    "Frame31-32": 2,
+    "Frame32-33": 4,
+    "Frame33-33": 1,
+    "Frame33-34": 4,
+    "Frame34-37": 2,
+    "Frame37-38": 3,
+    "Frame38-41": 2,
+    "Frame41-41": 1,
+    "Frame41-48": 1
+}
+{
+    "Frame48-49": 2,
+    "Frame49-51": 1,
+    "Frame51-54": 3,
+    "Frame54-57": 4,
+    "Frame57-58": 2,
+    "Frame58-62": 2,
+    "Frame62-64": 3,
+    "Frame64-66": 4,
+    "Frame66-80": 5,
+    "Frame81-82": 1,
+    "Frame82-96": 2
+}

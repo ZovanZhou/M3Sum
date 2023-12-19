@@ -1,0 +1,79 @@
+{
+  "Frame1": 2,
+  "Frame2": 2,
+  "Frame3": 4,
+  "Frame4": 4,
+  "Frame5": 3,
+  "Frame6": 3,
+  "Frame7": 1,
+  "Frame8": 1,
+  "Frame9": 3,
+  "Frame10": 1,
+  "Frame11": 1,
+  "Frame12": 1,
+  "Frame13": 5,
+  "Frame14": 4,
+  "Frame15": 4,
+  "Frame16": 5,
+  "Frame17": 5,
+  "Frame18": 4,
+  "Frame19": 1,
+  "Frame20": 4,
+  "Frame21": 1,
+  "Frame22": 5,
+  "Frame23": 4,
+  "Frame24": 5,
+  "Frame25": 4,
+  "Frame26": 5,
+  "Frame27": 3,
+  "Frame28": 4,
+  "Frame29": 2,
+  "Frame30": 2
+}
+the risk of your bike being stolen.
+
+Frame31: 2
+Frame32: 2
+Frame33: 1
+Frame34: 1
+Frame35: 3
+Frame36: 3
+Frame37: 3
+Frame38: 3
+Frame39: 4
+Frame40: 4
+Frame41: 4
+Frame42: 2
+Frame43: 2
+Frame44: 5
+Frame45: 5
+Frame46: 5
+Frame47: 3
+Frame48: 3
+Frame49: 4
+Frame50: 4
+Frame51: 4
+Frame52: 4
+Frame53: 4
+Frame54: 4
+Frame55: 2
+Frame56: 3
+Frame57: 2
+Frame58: 4
+Frame59: 1
+Frame60: 1
+{
+  "Frame61": 2,
+  "Frame62": 2,
+  "Frame63": 2,
+  "Frame64": 4,
+  "Frame65": 4,
+  "Frame66": 1,
+  "Frame67": 1,
+  "Frame68": 3,
+  "Frame69": 3,
+  "Frame70": 3,
+  "Frame71": 1,
+  "Frame72": 1,
+  "Frame73": 1
+}

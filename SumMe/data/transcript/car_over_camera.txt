@@ -1,0 +1,7 @@
+1. Frame60-67: Gran deactivation - Score 2
+2. Frame68-72: Car driving over camera - Score 5
+3. Frame73-80: Camera being crushed by car - Score 5
+4. Frame81-85: Car driving away from the camera - Score 3
+5. Frame86-90: Debris falling off the camera - Score 2
+6. Frame91-95: Smoke rising from the camera - Score 2
+7. Frame96-100: Final shot of the damaged camera - Score 1

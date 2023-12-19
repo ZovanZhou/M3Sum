@@ -1,0 +1,270 @@
+Frame1: 2
+Frame2: 1
+Frame3: 1
+Frame4: 1
+Frame5: 1
+Frame6: 1
+Frame7: 2
+Frame8: 1
+Frame9: 1
+Frame10: 1
+Frame11: 3
+Frame12: 3
+Frame13: 4
+Frame14: 4
+Frame15: 4
+Frame16: 5
+Frame17: 5
+Frame18: 5
+Frame19: 4
+Frame20: 4
+Frame21: 2
+Frame22: 4
+Frame23: 3
+Frame24: 4
+Frame25: 4
+Frame26: 3
+Frame27: 3
+Frame28: 5
+Frame29: 4
+Frame30: 1
+Frame31: 2
+Frame32: 4
+Frame33: 3
+Frame34: 2
+Frame35: 2
+Frame36: 2
+Frame37: 2
+Frame38: 3
+Frame39: 2
+Frame40: 1
+
+{
+"Frame21": 2,
+"Frame22": 4,
+"Frame23": 3,
+"Frame24": 4,
+"Frame25": 4,
+"Frame26": 3,
+"Frame27": 3,
+"Frame28": 5,
+"Frame29": 4,
+"Frame30": 1,
+"Frame31": 2,
+"Frame32": 4,
+"Frame33": 3,
+"Frame34": 2,
+"Frame35": 2,
+"Frame36": 2,
+"Frame37": 2,
+"Frame38": 3,
+"Frame39": 2,
+"Frame40": 1
+}
+Frame41: 1
+Frame42: 1
+Frame43: 1
+Frame44: 2
+Frame45: 2
+Frame46: 2
+Frame47: 3
+Frame48: 3
+Frame49: 3
+Frame50: 4
+Frame51: 4
+Frame52: 4
+Frame53: 5
+Frame54: 5
+Frame55: 5
+Frame56: 5
+Frame57: 2
+Frame58: 2
+Frame59: 3
+Frame60: 3
+
+{
+"Frame41": 1,
+"Frame42": 1,
+"Frame43": 1,
+"Frame44": 2,
+"Frame45": 2,
+"Frame46": 2,
+"Frame47": 3,
+"Frame48": 3,
+"Frame49": 3,
+"Frame50": 4,
+"Frame51": 4,
+"Frame52": 4,
+"Frame53": 5,
+"Frame54": 5,
+"Frame55": 5,
+"Frame56": 5,
+"Frame57": 2,
+"Frame58": 2,
+"Frame59": 3,
+"Frame60": 3
+}
+Frame61: 1
+Frame62: 1
+Frame63: 2
+Frame64: 1
+Frame65: 2
+Frame66: 4
+Frame67: 3
+Frame68: 1
+Frame69: 1
+Frame70: 1
+Frame71: 1
+Frame72: 3
+Frame73: 1
+Frame74: 4
+Frame75: 3
+Frame76: 1
+Frame77: 2
+Frame78: 1
+Frame79: 4
+Frame80: 2
+Frame81: 2
+Frame82: 1
+Frame83: 1
+Frame84: 3
+Frame85: 4
+Frame86: 1
+Frame87: 2
+Frame88: 1
+Frame89: 1
+Frame90: 1
+Frame91: 5
+Frame92: 4
+Frame93: 3
+Frame94: 4
+Frame95: 3
+Frame96: 2
+Frame97: 4
+Frame98: 1
+Frame99: 2
+Frame100: 3
+Frame101: 2
+Frame102: 1
+Frame103: 1
+Frame104: 1
+Frame105: 3
+Frame106: 2
+Frame107: 2
+Frame108: 2
+Frame109: 2
+Frame110: 2
+Frame111: 2
+Frame112: 2
+Frame113: 1
+Frame114: 3
+Frame115: 1
+Frame116: 1
+Frame117: 1
+Frame118: 1
+Frame119: 4
+Frame120: 1
+
+{
+"101": 2,
+"102": 1,
+"103": 1,
+"104": 1,
+"105": 3,
+"106": 2,
+"107": 2,
+"108": 2,
+"109": 2,
+"110": 2,
+"111": 2,
+"112": 2,
+"113": 1,
+"114": 3,
+"115": 1,
+"116": 1,
+"117": 1,
+"118": 1,
+"119": 4,
+"120": 1
+}
+{
+  "Frame121": 1,
+  "Frame122": 1,
+  "Frame123": 2,
+  "Frame124": 3,
+  "Frame125": 2,
+  "Frame126": 2,
+  "Frame127": 4,
+  "Frame128": 1,
+  "Frame129": 4,
+  "Frame130": 5,
+  "Frame131": 5,
+  "Frame132": 3,
+  "Frame133": 1,
+  "Frame134": 2,
+  "Frame135": 1,
+  "Frame136": 4,
+  "Frame137": 1,
+  "Frame138": 1,
+  "Frame139": 4,
+  "Frame140": 1
+}
+require a lot of force to break the bead, but they do require a specific type of machine. It's recommended to have a professional do it if you don't have access to one.
+Frame161: a person using a shoe driver to remove a tire from a rim. For tires with tubes, use a shoe driver to remove the tire from the rim after setting the nipple for air fill and dropping the bead to the lowest pocket inside the rim.
+Frame162: a tire machine in a workshop. For tubeless tire designs with a partially locking sealing system, a vice, tire machine, or driving over the rubber part close to the rim may be required to separate the tire. It is not recommended to beat the tire with a hammer as it may damage the rim.
+Frame163: a person lubricating the edges of a tire. Lubricating the edges of the tire can make the process of changing tires easier.
+Frame164: a person inserting a new tube into a tire. When installing new tubes, care must be taken to ensure they are inserted correctly, as they often have a right or left side.
+Frame165: a close-up of a tire with a high-pressure locking bead. For ATV or quad tires, a high-pressure locking bead is used to prevent the tire from flipping off the rim during hard cornering. Breaking the bead on these tires requires a specific type of machine.
+Frame161: 1
+Frame162: 1
+Frame163: 4
+Frame164: 4
+Frame165: 4
+Frame166: 2
+Frame167: 2
+Frame168: 2
+Frame169: 2
+Frame170: 2
+Frame171: 5
+Frame172: 5
+Frame173: 5
+Frame174: 5
+Frame175: 5
+Frame176: 5
+Frame177: 5
+Frame178: 5
+Frame179: 5
+Frame180: 5
+Frame 1: Introduction to the video and its title.
+Frame 2: Description of the different types of bead styles for tires.
+Frame 3: Explanation of the process of setting the nipple for air fill and dropping the bead to the lowest pocket inside the rim.
+Frame 4: Use of shoe divers to remove the tire if there is a tube present.
+Frame 5: Difficulty in separating tubeless tire designs due to partially locking sealing system.
+Frame 6: Caution against beating the tire with a hammer and recommendation to lubricate the edges of the tire.
+Frame 7: Importance of correctly inserting new tubes, which often have a right or left side.
+Frame 8: Use of high-pressure locking bead for ATV or quad tires to prevent flipping off the rim during hard cornering.
+Frame 9: Need for a specific type of machine to break the bead on ATV or quad tires and recommendation to have a professional do it if you don't have access to one.
+
+Frame scores:
+Frame 1: 2
+Frame 2: 4
+Frame 3: 5
+Frame 4: 3
+Frame 5: 3
+Frame 6: 2
+Frame 7: 4
+Frame 8: 5
+Frame 9: 4
+
+JSON output:
+{
+"frame1": 2,
+"frame2": 4,
+"frame3": 5,
+"frame4": 3,
+"frame5": 3,
+"frame6": 2,
+"frame7": 4,
+"frame8": 5,
+"frame9": 4
+}

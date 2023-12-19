@@ -1,0 +1,33 @@
+Range 1: 0:00 - 0:30
+Frame 1: The video starts with a view of the airplane flying over the ocean towards St Maarten.
+Frame 2: The camera then shows a close-up of the landing gear being lowered.
+Frame 3: The airplane approaches the runway and the camera shows a view from the cockpit.
+Frame 4: The airplane lands on the runway and the camera shows a view from the ground.
+
+Range 2: 0:31 - 1:00
+Frame 5: The airplane continues to taxi down the runway.
+Frame 6: The camera shows a view of the beach and the people watching the planes land.
+Frame 7: The airplane turns around and prepares for takeoff.
+Frame 8: The camera shows a view of the airplane taking off and flying over the ocean.
+
+Range 3: 1:01 - 1:30
+Frame 9: The camera shows a view of the island and the ocean from the airplane.
+Frame 10: The airplane flies over the mountains and the camera shows a view from the cockpit.
+Frame 11: The airplane approaches another airport and the camera shows a view from the ground.
+Frame 12: The airplane lands on the runway and the camera shows a view from the cockpit. 
+
+JSON Output:
+{
+"Frame 1": 2,
+"Frame 2": 3,
+"Frame 3": 4,
+"Frame 4": 4,
+"Frame 5": 2,
+"Frame 6": 3,
+"Frame 7": 2,
+"Frame 8": 3,
+"Frame 9": 2,
+"Frame 10": 3,
+"Frame 11": 2,
+"Frame 12": 4
+}

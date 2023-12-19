@@ -1,0 +1,82 @@
+{
+  "Frame1": 2,
+  "Frame2": 3,
+  "Frame3": 2,
+  "Frame4": 1,
+  "Frame5": 1,
+  "Frame6": 2,
+  "Frame7": 2,
+  "Frame8": 1,
+  "Frame9": 3,
+  "Frame10": 2,
+  "Frame11": 2,
+  "Frame12": 1,
+  "Frame13": 1,
+  "Frame14": 2,
+  "Frame15": 1,
+  "Frame16": 1,
+  "Frame17": 1,
+  "Frame18": 1,
+  "Frame19": 1,
+  "Frame20": 2,
+  "Frame21": 2,
+  "Frame22": 1,
+  "Frame23": 3,
+  "Frame24": 1,
+  "Frame25": 1,
+  "Frame26": 2,
+  "Frame27": 2,
+  "Frame28": 2,
+  "Frame29": 3,
+  "Frame30": 3
+}
+{
+  "Frame31": 2,
+  "Frame32": 1,
+  "Frame33": 3,
+  "Frame34": 4,
+  "Frame35": 3,
+  "Frame36": 3,
+  "Frame37": 1,
+  "Frame38": 1,
+  "Frame39": 3,
+  "Frame40": 3,
+  "Frame41": 3,
+  "Frame42": 2,
+  "Frame43": 3,
+  "Frame44": 2,
+  "Frame45": 2,
+  "Frame46": 2,
+  "Frame47": 3,
+  "Frame48": 3,
+  "Frame49": 3,
+  "Frame50": 3,
+  "Frame51": 2,
+  "Frame52": 2,
+  "Frame53": 3,
+  "Frame54": 4,
+  "Frame55": 3,
+  "Frame56": 2,
+  "Frame57": 3,
+  "Frame58": 1,
+  "Frame59": 2,
+  "Frame60": 2
+}
+. And when the ground beneath you starts to shake, that's when you know it's time to move. 
+
+Frame61: 2
+Frame62: 3
+Frame63: 2
+Frame64: 1
+Frame65: 3
+Frame66: 5
+Frame67: 4
+Frame68: 1
+Frame69: 2
+Frame70: 3
+Frame71: 2
+Frame72: 1
+Frame73: 2
+Frame74: 3
+
+{"Frame61": 2, "Frame62": 3, "Frame63": 2, "Frame64": 1, "Frame65": 3, "Frame66": 5, "Frame67": 4, "Frame68": 1, "Frame69": 2, "Frame70": 3, "Frame71": 2, "Frame72": 1, "Frame73": 2, "Frame74": 3}

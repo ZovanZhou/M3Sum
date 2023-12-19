@@ -1,0 +1,138 @@
+{
+  "Frame1": 2,
+  "Frame2": 1,
+  "Frame3": 3,
+  "Frame4": 4,
+  "Frame5": 3,
+  "Frame6": 4,
+  "Frame7": 2,
+  "Frame8": 2,
+  "Frame9": 2,
+  "Frame10": 4,
+  "Frame11": 1,
+  "Frame12": 1,
+  "Frame13": 1,
+  "Frame14": 3,
+  "Frame15": 4,
+  "Frame16": 5,
+  "Frame17": 4,
+  "Frame18": 5,
+  "Frame19": 3,
+  "Frame20": 4,
+  "Frame21": 4,
+  "Frame22": 2,
+  "Frame23": 2,
+  "Frame24": 3,
+  "Frame25": 1,
+  "Frame26": 3,
+  "Frame27": 2,
+  "Frame28": 3,
+  "Frame29": 2,
+  "Frame30": 2,
+  "Frame31": 3,
+  "Frame32": 4,
+  "Frame33": 4,
+  "Frame34": 3,
+  "Frame35": 4,
+  "Frame36": 2,
+  "Frame37": 2,
+  "Frame38": 3,
+  "Frame39": 1,
+  "Frame40": 2,
+  "Frame41": 3,
+  "Frame42": 3,
+  "Frame43": 1,
+  "Frame44": 2,
+  "Frame45": 3,
+  "Frame46": 4,
+  "Frame47": 2,
+  "Frame48": 5,
+  "Frame49": 2,
+  "Frame50": 4
+}
+{
+  "Frame51": 2,
+  "Frame52": 2,
+  "Frame53": 1,
+  "Frame54": 1,
+  "Frame55": 3,
+  "Frame56": 2,
+  "Frame57": 3,
+  "Frame58": 1,
+  "Frame59": 2,
+  "Frame60": 3,
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 1,
+  "Frame64": 2,
+  "Frame65": 1,
+  "Frame66": 3,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 2,
+  "Frame70": 3,
+  "Frame71": 2,
+  "Frame72": 3,
+  "Frame73": 1,
+  "Frame74": 2,
+  "Frame75": 1,
+  "Frame76": 1,
+  "Frame77": 3,
+  "Frame78": 3,
+  "Frame79": 2,
+  "Frame80": 2,
+  "Frame81": 2,
+  "Frame82": 1,
+  "Frame83": 2,
+  "Frame84": 3,
+  "Frame85": 2,
+  "Frame86": 1,
+  "Frame87": 1,
+  "Frame88": 1,
+  "Frame89": 2,
+  "Frame90": 2,
+  "Frame91": 3,
+  "Frame92": 2,
+  "Frame93": 3,
+  "Frame94": 2,
+  "Frame95": 1,
+  "Frame96": 2,
+  "Frame97": 2,
+  "Frame98": 1,
+  "Frame99": 2,
+  "Frame100": 3
+}
+Frame 1: A close-up shot of a flower with a blue sky background.
+Score: 2
+
+Frame 2: A panoramic view of the Eiffel Tower from a distance with a cloudy sky background.
+Score: 4
+
+Frame 3: A close-up shot of a clock tower with a blue sky background.
+Score: 2
+
+Frame 4: A view of a train passing over a bridge with a cityscape in the background.
+Score: 3
+
+Frame 5: An aerial view of a river with boats and buildings on either side.
+Score: 4
+
+Frame 6: A close-up shot of leaves blowing in the wind with a blue sky background.
+Score: 2
+
+Frame 7: A view of an airplane flying over a city with a cloudy sky background.
+Score: 3
+
+Frame 8: A panoramic view of a city skyline with a blue sky background.
+Score: 4
+
+Frame 9: A close-up shot of a bird perched on a tree branch with a blue sky background.
+Score: 2
+
+Frame 10: A view of the Eiffel Tower at night with lights illuminating it.
+Score: 5
+
+JSON Output:
+{
+"frame_scores": [2, 4, 2, 3, 4, 2, 3, 4, 2, 5]
+}

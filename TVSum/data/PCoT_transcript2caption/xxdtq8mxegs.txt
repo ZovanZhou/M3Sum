@@ -1,0 +1,97 @@
+for bacteria and yeast to grow.
+Frame21: a close-up of a bottle of ear cleansing solution. So what we're going to do is take a couple of drops of the ear cleansing solution and put it into the ear canal.
+Frame22: a man holding a brown dog in front of a mirror. And then we're going to massage that ear canal really well.
+Frame23: a man sitting on the floor next to a dog. And then we're going to wipe away any excess solution with cotton swabs.
+Frame24: a close-up of a cotton swab being used to clean a dog's ear. It's important not to jam Q-tips or cotton into the actual ear.
+Frame25: a man standing next to a brown and white dog. And then we're going to wipe off the tip of the ear cleaning solution to make sure there's no dirt or debris left.
+Frame26: a close-up of a bottle of ear cleansing solution. If you have multiple pets in the house, it's recommended to have multiple bottles of the ear cleansing solution to avoid spreading microbes from dog to dog.
+Frame27: a man sitting on the floor next to a dog. If you have any questions about ear cleaning, please direct them to your local veterinarian.
+
+{
+"Frame1": 1,
+"Frame2": 1,
+"Frame3": 1,
+"Frame4": 1,
+"Frame5": 1,
+"Frame6": 1,
+"Frame7": 1,
+"Frame8": 1,
+"Frame9": 2,
+"Frame10": 2,
+"Frame11": 2,
+"Frame12": 2,
+"Frame13": 3,
+"Frame14": 4,
+"Frame15": 4,
+"Frame16": 4,
+"Frame17": 4,
+"Frame18": 5,
+"Frame19": 5,
+"Frame20": 5,
+"Frame21": 5,
+"Frame22": 5,
+"Frame23": 5,
+"Frame24": 5,
+"Frame25": 5,
+"Frame26": 3,
+"Frame27": 4
+}
+wipe away any excess solution with cotton swabs.
+{
+  "Frame41": 3,
+  "Frame42": 2,
+  "Frame43": 2,
+  "Frame44": 2,
+  "Frame45": 4,
+  "Frame46": 4,
+  "Frame47": 4,
+  "Frame48": 3,
+  "Frame49": 5,
+  "Frame50": 5,
+  "Frame51": 1,
+  "Frame52": 1,
+  "Frame53": 2,
+  "Frame54": 4,
+  "Frame55": 4,
+  "Frame56": 5,
+  "Frame57": 4,
+  "Frame58": 1,
+  "Frame59": 3,
+  "Frame60": 3
+}
+. for information.
+Frame74: a hand holding a bottle of ear cleaning solution. for demonstration.
+Frame75: a dog's ear with debris and dirt. for demonstration.
+Frame76: a bottle of ear cleaning solution. for demonstration.
+Frame77: a hand massaging a dog's ear. for demonstration.
+Frame78: a cotton swab wiping away excess solution from a dog's ear. for demonstration.
+Frame79: a warning not to insert Q-tips or cotton into a dog's ear. for important information.
+Frame80: a warning to wipe off the tip of the ear cleaning solution. for important information.
+Frame81: a recommendation to have multiple bottles of cleaning solution for multiple pets. for important information.
+Frame82: a reminder to consult a veterinarian with any questions about ear cleaning. for important information.
+
+JSON output:
+{
+  "Frame61": 1,
+  "Frame62": 1,
+  "Frame63": 1,
+  "Frame64": 1,
+  "Frame65": 1,
+  "Frame66": 1,
+  "Frame67": 1,
+  "Frame68": 1,
+  "Frame69": 1,
+  "Frame70": 1,
+  "Frame71": 1,
+  "Frame72": 1,
+  "Frame73": 1,
+  "Frame74": 4,
+  "Frame75": 4,
+  "Frame76": 4,
+  "Frame77": 4,
+  "Frame78": 4,
+  "Frame79": 5,
+  "Frame80": 5,
+  "Frame81": 5,
+  "Frame82": 5
+}

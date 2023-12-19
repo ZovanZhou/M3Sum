@@ -1,0 +1,30 @@
+Frame0: 1
+Frame1: 2
+Frame2: 1
+Frame3: 1
+Frame4: 2
+Frame5: 1
+Frame6: 1
+Frame7: 2
+Frame8: 1
+Frame9: 1
+Frame10: 2
+Frame11: 1
+Frame12: 1
+
+JSON output:
+{
+"Frame0": 1,
+"Frame1": 2,
+"Frame2": 1,
+"Frame3": 1,
+"Frame4": 2,
+"Frame5": 1,
+"Frame6": 1,
+"Frame7": 2,
+"Frame8": 1,
+"Frame9": 1,
+"Frame10": 2,
+"Frame11": 1,
+"Frame12": 1
+}

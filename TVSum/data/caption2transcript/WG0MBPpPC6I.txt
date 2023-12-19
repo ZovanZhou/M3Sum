@@ -1,0 +1,100 @@
+{
+    "Frame0-2": 1,
+    "Frame2-4": 2,
+    "Frame4-7": 3,
+    "Frame7-9": 2,
+    "Frame9-12": 4,
+    "Frame12-14": 2,
+    "Frame14-16": 1,
+    "Frame16-19": 3,
+    "Frame19-20": 1,
+    "Frame20-22": 3,
+    "Frame22-24": 2,
+    "Frame24-26": 1,
+    "Frame26-30": 2,
+    "Frame30-33": 3,
+    "Frame33-36": 2,
+    "Frame36-39": 1,
+    "Frame39-41": 1,
+    "Frame42-46": 3,
+    "Frame46-49": 2,
+    "Frame49-50": 2
+}
+{
+    "Frame50-52": 2,
+    "Frame52-61": 3,
+    "Frame61-65": 2,
+    "Frame65-68": 1,
+    "Frame70-74": 2,
+    "Frame74-77": 1,
+    "Frame77-82": 4,
+    "Frame82-87": 3,
+    "Frame87-89": 1,
+    "Frame89-94": 2,
+    "Frame94-99": 2,
+    "Frame99-102": 1,
+    "Frame102-105": 2,
+    "Frame105-107": 1,
+    "Frame107-109": 2,
+    "Frame109-114": 2,
+    "Frame114-118": 3,
+    "Frame118-122": 2,
+    "Frame122-124": 1,
+    "Frame124-127": 2
+}
+{
+    "Frame127-130": 2,
+    "Frame130-134": 3,
+    "Frame134-142": 4,
+    "Frame142-147": 2,
+    "Frame147-148": 1,
+    "Frame152-156": 2,
+    "Frame156-158": 1,
+    "Frame158-160": 2,
+    "Frame160-163": 3,
+    "Frame163-166": 2,
+    "Frame166-172": 4,
+    "Frame172-175": 3,
+    "Frame175-179": 4,
+    "Frame179-181": 2,
+    "Frame181-184": 3,
+    "Frame186-190": 4,
+    "Frame190-192": 1,
+    "Frame192-193": 2,
+    "Frame193-196": 2,
+    "Frame196-209": 5
+}
+Range 1: 0:00-0:30
+Frame 1: The video starts with a shot of the ingredients for the Mexican Fried Chicken Sandwich laid out on a table.
+Frame 2: The host introduces herself and welcomes viewers to the video.
+Frame 3: The host explains that she will be making a Mexican Fried Chicken Sandwich and lists the ingredients needed.
+
+Range 2: 0:31-1:00
+Frame 4: The host begins by seasoning the chicken breasts with salt, pepper, garlic powder, and chili powder.
+Frame 5: The host dips the chicken breasts in egg wash and then coats them in a mixture of flour and cornmeal.
+Frame 6: The host fries the chicken breasts in hot oil until they are golden brown and crispy.
+
+Range 3: 1:01-1:30
+Frame 7: The host assembles the sandwich by spreading mayonnaise on a toasted bun and adding lettuce, tomato, and avocado.
+Frame 8: The host places the fried chicken breast on top of the vegetables and adds a slice of cheese.
+Frame 9: The host tops the sandwich with another piece of toasted bread and cuts it in half before serving.
+
+Range 4: 1:31-2:00
+Frame 10: The host takes a bite of the sandwich and describes the flavors and textures.
+Frame 11: The host encourages viewers to try making the sandwich themselves and thanks them for watching.
+Frame 12: The video ends with a shot of the finished sandwich on a plate. 
+
+{
+"Frame 1": 2,
+"Frame 2": 1,
+"Frame 3": 2,
+"Frame 4": 4,
+"Frame 5": 4,
+"Frame 6": 4,
+"Frame 7": 3,
+"Frame 8": 3,
+"Frame 9": 3,
+"Frame 10": 2,
+"Frame 11": 1,
+"Frame 12": 2
+}

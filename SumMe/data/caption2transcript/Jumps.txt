@@ -1,0 +1,13 @@
+Frame0: 2
+Frame1: 3
+Frame2: 2
+Frame3: 1
+Frame4: 4
+Frame5: 4
+Frame6: 3
+Frame7: 2
+Frame8: 3
+Frame9: 2
+Frame10: 1
+Frame11: 1
+Frame12: 2

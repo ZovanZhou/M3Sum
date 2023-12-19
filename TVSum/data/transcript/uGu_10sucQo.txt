@@ -1,0 +1,32 @@
+Score: 1
+
+Frame60-74: The beekeeper inspects the hives and checks for any signs of disease or pests.
+
+Score: 3
+
+Frame45-59: The bees are busy collecting nectar from flowers and bringing it back to the hive to make honey.
+
+Score: 4
+
+Frame30-44: The beekeeper harvests honey from the hives and shows the process of extracting it from the comb.
+
+Score: 5
+
+Frame15-29: The beekeeper introduces a new queen bee to the hive and explains the importance of having a strong queen.
+
+Score: 2
+
+Frame1-14: The beekeeper sets up new hives and explains the basics of beekeeping.
+
+Score: 2
+
+
+JSON Output:
+{
+"75-84": 1,
+"60-74": 3,
+"45-59": 4,
+"30-44": 5,
+"15-29": 2,
+"1-14": 2
+}
